@@ -1,0 +1,393 @@
+0 HEAD
+1 CHAR ANSI
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P26@ INDI 
+1 SEX M
+1 NAME Daniel /O'Connor/
+1 BIRT 
+2 DATE Apr 1985
+2 PLAC Sandringham
+1 NOTE -
+2 CONT http://trees.ancestry.com/rd?f=image&guid=80a30dab-f5bc-4b02-a2aa-ce013e25169e&tid=36152016&pid=26
+1 FAMC @F8@
+0 @P1@ INDI 
+1 SEX F
+1 NAME Joan /Bradley/
+1 DEAT 
+2 PLAC ?
+1 FAMS @F1@
+0 @P2@ INDI 
+1 SEX M
+1 NAME Keith /Bradley/
+1 FAMC @F1@
+0 @P3@ INDI 
+1 SEX M
+1 NAME Colin /Bradley/
+1 DEAT 
+2 PLAC Adelaide
+1 FAMS @F1@
+0 @P4@ INDI 
+1 SEX F
+1 NAME Linda /Bradley/
+1 FAMC @F1@
+1 FAMS @F8@
+0 @P5@ INDI 
+1 NAME /?/
+1 SEX M
+1 FAMS @F2@
+0 @P6@ INDI 
+1 NAME Jaylene /Bright/<a:facebookid><av>701913318</av><dd>08 Feb 2012</dd><wp /></a:facebookid>
+1 FAMC @F2@
+0 @P7@ INDI 
+1 SEX F
+1 NAME Brenda Irene /O'Connor/
+1 FAMS @F2@
+1 FAMC @F10@
+0 @P8@ INDI 
+1 SEX F
+1 NAME Grace /Macfarlane/
+1 DEAT 
+2 PLAC ?
+1 FAMS @F3@
+0 @P9@ INDI 
+1 SEX M
+1 NAME Cecil /Macfarlane/
+1 BIRT 
+2 DATE 1920
+1 FAMC @F3@
+0 @P10@ INDI 
+1 NAME Mavis /MacFarlane/
+1 SEX F
+1 DEAT 
+2 DATE 2009
+1 FAMC @F3@
+0 @P11@ INDI 
+1 NAME William Robert /MacFarlane/
+1 SEX M
+1 DEAT 
+2 DATE 27 Dec 1944
+2 PLAC Japan
+1 BIRT 
+2 DATE 1920
+1 NOTE _
+2 CONT http://trees.ancestry.com/rd?f=document&guid=590fac2d-0d4f-40a5-a1fb-015bf782cbc4&tid=36152016&pid=11
+1 FAMC @F3@
+0 @P12@ INDI 
+1 SEX M
+1 NAME /?/
+1 FAMS @F3@
+0 @P13@ INDI 
+1 SEX F
+1 NAME Alice /MacFarlane/
+1 FAMC @F3@
+1 FAMS @F10@
+0 @P14@ INDI 
+1 SEX M
+1 NAME Thomas /FERNANDEZ/
+1 DEAT 
+2 PLAC ?
+1 FAMS @F4@
+0 @P15@ INDI 
+1 SEX F
+1 NAME Mary
+1 DEAT 
+2 PLAC ?
+1 FAMS @F4@
+0 @P16@ INDI 
+1 SEX F
+1 NAME Gertrude Mary /Fernandez/
+1 DEAT 
+2 PLAC ?
+1 FAMC @F4@
+1 FAMS @F9@
+0 @P17@ INDI 
+1 NAME Denis /Connor/
+1 SEX M
+1 BIRT 
+2 PLAC Ireland
+1 FAMS @F5@
+0 @P18@ INDI 
+1 NAME Mary /Mackey/
+1 SEX F
+1 DEAT 
+2 DATE 21 Aug 1897
+2 PLAC West Charlton, Victoria
+1 BIRT 
+2 DATE 7 Aug 1812
+2 PLAC Limerick, Co Limerick
+1 FAMS @F5@
+1 FAMS @F7@
+0 @P19@ INDI 
+1 SEX M
+1 NAME Bernard Francis 'Barney' /O'Connor/
+1 BIRT 
+2 DATE 21 Mar 1843
+2 PLAC St John's Parish, Limerick City
+1 DEAT 
+2 DATE 1914
+2 PLAC Mildura
+1 FAMC @F5@
+1 FAMS @F11@
+0 @P20@ INDI 
+1 SEX M
+1 NAME Thomas /Hawkins/
+1 DEAT 
+2 DATE 5 Dec 1863
+2 PLAC Westbury, Tasmania
+1 BIRT 
+2 DATE 1810
+1 FAMS @F7@
+0 @P21@ INDI 
+1 SEX F
+1 NAME Mary /Lee/
+1 FAMS @F6@
+0 @P22@ INDI 
+1 SEX M
+1 NAME James /Knight/
+1 FAMS @F6@
+0 @P23@ INDI 
+1 SEX F
+1 NAME Jane /Knight/
+1 DEAT 
+2 PLAC ?
+1 BIRT 
+2 DATE 1854
+2 PLAC Kyneton, Victoria, Australia
+1 FAMC @F6@
+1 FAMS @F11@
+0 @P24@ INDI 
+1 SEX F
+1 NAME Ellen /Fahey/
+0 @P25@ INDI 
+1 SEX M
+1 NAME John /Mackey/
+1 BIRT 
+2 PLAC Limerick Ireland
+0 @P27@ INDI 
+1 NAME Garry John /O'Connor/
+1 SEX M<a:facebookid><av>100001029729103</av><dd>08 Feb 2012</dd><wp /></a:facebookid>
+1 DEAT 
+2 PLAC ?
+1 BIRT 
+2 DATE Dec 1952
+2 PLAC Mildura
+1 FAMS @F8@
+1 FAMC @F10@
+0 @P28@ INDI 
+1 SEX M
+1 NAME John Michael /O'Connor/
+1 DEAT 
+2 DATE 1992
+1 BIRT 
+2 DATE 14 Sep 1919
+2 PLAC Mildura
+1 FAMC @F9@
+1 FAMS @F10@
+0 @P29@ INDI 
+1 NAME Rosemary Ann /O'Connor/
+1 SEX F
+1 FAMC @F10@
+0 @P30@ INDI 
+1 NAME Michael William /O'Connor/
+1 SEX M
+1 FAMC @F10@
+0 @P31@ INDI 
+1 SEX M
+1 NAME Martin Patrick /O'Connor/
+1 FAMC @F10@
+0 @P32@ INDI 
+1 SEX M
+1 NAME William Michael /O'Connor/
+1 DEAT 
+2 DATE 1970
+2 PLAC Mildura
+1 BIRT 
+2 DATE 1892
+2 PLAC Charlton
+1 FAMS @F9@
+1 FAMC @F11@
+0 @P33@ INDI 
+1 SEX M
+1 NAME Patrick Joseph /O'Connor/
+1 FAMC @F9@
+0 @P34@ INDI 
+1 NAME Veronica /O'Connor/
+1 SEX F
+1 FAMC @F9@
+0 @P35@ INDI 
+1 SEX F
+1 NAME Margaret Ellen /O'Connor/
+1 BIRT 
+2 DATE 1891
+2 PLAC Charlton, Victoria, Australia
+1 FAMC @F11@
+0 @P36@ INDI 
+1 SEX M
+1 NAME Denis /O'Connor/
+1 BIRT 
+2 DATE 1888
+2 PLAC Charlton
+1 FAMC @F11@
+0 @P37@ INDI 
+1 SEX F
+1 NAME Mary /O'Connor/
+1 BIRT 
+2 DATE 1878
+2 PLAC Charlton, Victoria
+1 FAMC @F11@
+0 @P38@ INDI 
+1 SEX F
+1 NAME Catherine /O'Connor/
+1 BIRT 
+2 DATE 1879
+2 PLAC Charlton, Victoria
+1 DEAT 
+2 DATE 1884
+2 PLAC Charlton East
+1 FAMC @F11@
+0 @P39@ INDI 
+1 SEX F
+1 NAME Elizabeth /O'Connor/
+1 BIRT 
+2 DATE 1880
+2 PLAC Charlton, Victoria
+1 FAMC @F11@
+0 @P40@ INDI 
+1 SEX F
+1 NAME Jane /O'Connor/
+1 BIRT 
+2 DATE 1883
+2 PLAC Charlton, Victoria
+1 FAMC @F11@
+0 @P41@ INDI 
+1 SEX M
+1 NAME James Michael /O'Connor/
+1 BIRT 
+2 DATE 1884
+2 PLAC Charlton, Victoria, Australia
+1 FAMC @F11@
+0 @F1@ FAM 
+1 HUSB @P3@
+1 WIFE @P1@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P5@
+1 WIFE @P7@
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P12@
+1 WIFE @P8@
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P14@
+1 WIFE @P15@
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P17@
+1 WIFE @P18@
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P22@
+1 WIFE @P21@
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM 
+1 HUSB @P20@
+1 WIFE @P18@
+0 @F8@ FAM 
+1 HUSB @P27@
+1 WIFE @P4@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 DIV 
+2 PLAC ?
+0 @F9@ FAM 
+1 HUSB @P32@
+1 WIFE @P16@
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM 
+1 HUSB @P28@
+1 WIFE @P13@
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P19@
+1 WIFE @P23@
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+1 DIV 
+2 PLAC ?
+0 TRLR
