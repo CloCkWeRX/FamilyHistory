@@ -7,151 +7,303 @@
 1 GEDC
 2 VERS 5.5
 2 FORM LINEAGE-LINKED
-0 @P26@ INDI 
+0 @P1@ INDI 
 1 SEX M
 1 NAME Daniel /O'Connor/
 1 BIRT 
 2 DATE Apr 1985
 2 PLAC Sandringham
 1 NOTE -
-2 CONT http://trees.ancestry.com/rd?f=image&guid=80a30dab-f5bc-4b02-a2aa-ce013e25169e&tid=36152016&pid=26
-1 FAMC @F8@
-0 @P1@ INDI 
+2 CONT http://trees.ancestry.com/rd?f=image&guid=80a30dab-f5bc-4b02-a2aa-ce013e25169e&tid=36152016&pid=1
+1 FAMC @F1@
+0 @P2@ INDI 
+1 SEX M
+1 NAME Garry John /O'Connor/
+1 _FACE 100001029729103
+2 DATE 03 Mar 2012
+1 BIRT 
+2 DATE Dec 1952
+2 PLAC Mildura
+1 FAMS @F1@
+1 FAMC @F3@
+0 @P3@ INDI 
+1 SEX F
+1 NAME Linda /Bradley/
+1 FAMS @F1@
+1 FAMC @F2@
+0 @P4@ INDI 
+1 SEX M
+1 NAME Colin /Bradley/
+1 OCCU House of Lords Hansard reporter
+1 OCCU Hansard reporter for the South Australian Parliament
+2 DATE 1966
+2 PLAC South Australia
+1 DEAT 
+2 PLAC Adelaide
+1 NOTE Hansard reporter for the South Australian Parliament
+2 CONT http://trees.ancestry.com/rd?f=document&guid=75dfbb84-7baa-4daa-a58b-0f6504666c3f&tid=36152016&pid=4
+1 NOTE House of Lords Hansard reporter
+2 CONT http://trees.ancestry.com/rd?f=document&guid=78d4480f-7bb2-4a77-bbb5-48a014d550a2&tid=36152016&pid=4
+1 NOTE Colin
+2 CONT http://trees.ancestry.com/rd?f=image&guid=3ffeeb02-2d4f-4f15-a362-a7206454dc8d&tid=36152016&pid=4
+1 FAMS @F2@
+0 @P5@ INDI 
 1 SEX F
 1 NAME Joan /Bradley/
 1 DEAT 
 2 PLAC ?
-1 FAMS @F1@
-0 @P2@ INDI 
-1 SEX M
-1 NAME Keith /Bradley/
-1 FAMC @F1@
-0 @P3@ INDI 
-1 SEX M
-1 NAME Colin /Bradley/
-1 DEAT 
-2 PLAC Adelaide
-1 FAMS @F1@
-0 @P4@ INDI 
-1 SEX F
-1 NAME Linda /Bradley/
-1 FAMC @F1@
-1 FAMS @F8@
-0 @P5@ INDI 
-1 NAME /?/
-1 SEX M
 1 FAMS @F2@
 0 @P6@ INDI 
-1 NAME Jaylene /Bright/<a:facebookid><av>701913318</av><dd>08 Feb 2012</dd><wp /></a:facebookid>
-1 FAMC @F2@
+1 SEX F
+1 NAME Alice Irene /McFarlane/
+1 NOTE Alice
+2 CONT http://trees.ancestry.com/rd?f=image&guid=2138d4ea-2904-4f8c-a92b-3a8a979ece32&tid=36152016&pid=6
+1 FAMS @F3@
+1 FAMC @F30@
 0 @P7@ INDI 
-1 SEX F
-1 NAME Brenda Irene /O'Connor/
-1 FAMS @F2@
-1 FAMC @F10@
-0 @P8@ INDI 
-1 SEX F
-1 NAME Grace /Macfarlane/
-1 DEAT 
-2 PLAC ?
-1 FAMS @F3@
-0 @P9@ INDI 
 1 SEX M
-1 NAME Cecil /Macfarlane/
+1 NAME John Michael /O'Connor/
+1 RESI 
+2 PLAC Rye
+1 _MILT World War II
+2 DATE 1945
+1 DEAT Jack O'Connor was a greyhound trainer from Melbourne.
+2 TYPE Death
+2 DATE 1992
+2 PLAC Cheltenham
 1 BIRT 
-2 DATE 1920
-1 FAMC @F3@
-0 @P10@ INDI 
-1 NAME Mavis /MacFarlane/
-1 SEX F
-1 DEAT 
-2 DATE 2009
-1 FAMC @F3@
-0 @P11@ INDI 
-1 NAME William Robert /MacFarlane/
-1 SEX M
-1 DEAT 
-2 DATE 27 Dec 1944
-2 PLAC Japan
-1 BIRT 
-2 DATE 1920
+2 DATE 14 Sep 1919
+2 PLAC Mildura
 1 NOTE _
-2 CONT http://trees.ancestry.com/rd?f=document&guid=590fac2d-0d4f-40a5-a1fb-015bf782cbc4&tid=36152016&pid=11
-1 FAMC @F3@
-0 @P12@ INDI 
-1 SEX M
-1 NAME /?/
+2 CONT http://trees.ancestry.com/rd?f=document&guid=3c7f4d55-dc6c-498d-b0ae-2145b6bdfb14&tid=36152016&pid=7
+1 NOTE Jack O'Connor was a greyhound trainer from Melbourne.
+2 CONT http://trees.ancestry.com/rd?f=document&guid=9ba956ca-6ca3-455e-80a6-3131c3fbe91a&tid=36152016&pid=7
+1 NOTE World War II
+2 CONT http://trees.ancestry.com/rd?f=document&guid=209b9461-7c26-4c16-b1ab-f9e8422470eb&tid=36152016&pid=7
 1 FAMS @F3@
-0 @P13@ INDI 
-1 SEX F
-1 NAME Alice /MacFarlane/
-1 FAMC @F3@
-1 FAMS @F10@
-0 @P14@ INDI 
+1 FAMC @F7@
+0 @P8@ INDI 
 1 SEX M
-1 NAME Thomas /FERNANDEZ/
-1 DEAT 
-2 PLAC ?
-1 FAMS @F4@
-0 @P15@ INDI 
-1 SEX F
-1 NAME Mary
-1 DEAT 
-2 PLAC ?
-1 FAMS @F4@
-0 @P16@ INDI 
+1 NAME Keith /Bradley/
+1 FAMC @F2@
+0 @P9@ INDI 
 1 SEX F
 1 NAME Gertrude Mary /Fernandez/
 1 DEAT 
 2 PLAC ?
-1 FAMC @F4@
-1 FAMS @F9@
-0 @P17@ INDI 
-1 NAME Denis /Connor/
-1 SEX M
-1 BIRT 
-2 PLAC Ireland
-1 FAMS @F5@
-0 @P18@ INDI 
-1 NAME Mary /Mackey/
-1 SEX F
-1 DEAT 
-2 DATE 21 Aug 1897
-2 PLAC West Charlton, Victoria
-1 BIRT 
-2 DATE 7 Aug 1812
-2 PLAC Limerick, Co Limerick
-1 FAMS @F5@
+1 NOTE Michael & Gertie
+2 CONT http://trees.ancestry.com/rd?f=image&guid=66ed2919-be70-47e1-8ef6-7eeffe441421&tid=36152016&pid=9
+1 NOTE gertie
+2 CONT http://trees.ancestry.com/rd?f=image&guid=71aedfa0-4156-42c1-be30-8af9d5d4a04d&tid=36152016&pid=9
 1 FAMS @F7@
+1 FAMC @F10@
+0 @P10@ INDI 
+1 SEX M
+1 NAME William Michael /O'Connor/
+1 BIRT 
+2 TYPE Birth
+2 DATE 1892
+2 PLAC Charlton, vic
+1 DEAT 
+2 DATE 1970
+2 PLAC Mildura
+1 NOTE _
+2 CONT http://trees.ancestry.com/rd?f=document&guid=c4f4519c-a615-4b9d-ba2a-24bd7f0b7db8&tid=36152016&pid=10
+1 NOTE Michael & Gertie
+2 CONT http://trees.ancestry.com/rd?f=image&guid=66ed2919-be70-47e1-8ef6-7eeffe441421&tid=36152016&pid=10
+1 FAMS @F7@
+1 FAMC @F8@
+0 @P11@ INDI 
+1 SEX M
+1 NAME Martin Patrick 'Marty' /O'Connor/
+1 NOTE martin_patrick
+2 CONT http://trees.ancestry.com/rd?f=image&guid=491b0fb8-0756-425c-b564-184813943147&tid=36152016&pid=11
+1 FAMC @F3@
+0 @P12@ INDI 
+1 NAME Michael William /O'Connor/
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F4@
+0 @P13@ INDI 
+1 NAME Rosemary Ann /O'Connor/
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F15@
+1 FAMS @F16@
+0 @P14@ INDI 
+1 SEX F
+1 NAME Brenda Irene /O'Connor/
+1 FAMC @F3@
+1 FAMS @F5@
+1 FAMS @F17@
+0 @P15@ INDI 
+1 NAME William Hector /McFarlane/
+1 SEX M
+1 DEAT 
+2 DATE 1937
+2 PLAC Wentworth New South Wales Australia
+1 BIRT 
+2 DATE 1 Feb 1887
+2 PLAC Deniliquin New South Wales Australia
+1 FAMS @F30@
+1 FAMC @F33@
+0 @P16@ INDI 
+1 SEX F
+1 NAME Grace Gray /Brown/
+1 DEAT 
+2 DATE 12 Dec 1971
+2 PLAC Melbourne Victoria Australia
+1 BIRT 
+2 DATE 21 Oct 1896
+2 PLAC Wilcannia New South Wales Australia
+1 NOTE Grace Gray Brown
+2 CONT http://trees.ancestry.com/rd?f=image&guid=4a3e04de-f4ba-46d9-847b-fc5defd204d1&tid=36152016&pid=16
+1 FAMS @F30@
+1 FAMC @F31@
+0 @P17@ INDI 
+1 NAME Peter /Russell/
+1 FAMS @F17@
+0 @P18@ INDI 
+1 NAME Jaylene /Bright/
+1 _FACE 701913318
+2 DATE 08 Feb 2012
+1 FAMC @F5@
 0 @P19@ INDI 
 1 SEX M
+1 NAME Paul David /Steven/
+1 FAMS @F5@
+0 @P20@ INDI 
+1 SEX M
+1 NAME Glen /Darren/
+1 FAMS @F16@
+0 @P21@ INDI 
+1 SEX M
+1 NAME Gary James /Bright/
+1 DEAT 
+2 DATE 7 Feb 1995
+2 PLAC Wagga Wagga, New South Wales, Australia
+1 BIRT 
+2 DATE 1 Dec 1947
+2 PLAC Sydney, New South Wales, Australia
+1 FAMS @F15@
+0 @P22@ INDI 
+1 NAME Mikaela Niracha /O'Connor/
+1 SEX F
+1 BIRT 
+2 DATE 3 May 2012
+1 FAMC @F4@
+0 @P23@ INDI 
+1 SEX F
+1 NAME Annie
+1 FAMS @F4@
+0 @P24@ INDI 
+1 NAME Martha Gray /Murchland/
+1 SEX F
+1 BIRT 
+2 DATE 1869
+2 PLAC Victoria, Australia
+1 NOTE CHARLES BROWN AND MARTHA MURCHLAND
+2 CONT http://trees.ancestry.com/rd?f=image&guid=d8412243-81a3-4718-8fcd-1c3b2a54dba9&tid=36152016&pid=24
+1 FAMS @F31@
+1 FAMS @F52@
+1 FAMC @F53@
+0 @P25@ INDI 
+1 NAME Doreen Grace /McFarlane/
+1 SEX F
+1 BIRT 
+2 DATE 8 Sep 1933
+2 PLAC Wentworth NSW AUS
+1 DEAT 
+2 DATE Dec 2007
+2 PLAC Swan Hill VIC AUS
+1 FAMC @F30@
+0 @P26@ INDI 
+1 SEX M
+1 NAME Cecil /McFarlane/
+1 DEAT 
+2 PLAC Wanganui NZ
+1 BIRT 
+2 DATE 1919
+2 PLAC Renmark SA
+1 FAMS @F6@
+1 FAMC @F30@
+0 @P27@ INDI 
+1 SEX M
+1 NAME Charles E /Brown/
+1 DEAT 
+2 DATE 18 Aug 1902
+2 PLAC White Cliffs, New South Wales, Australia
+1 BIRT 
+2 DATE 1863
+2 PLAC Kadina, South Australia
+1 NOTE CHARLES BROWN AND MARTHA MURCHLAND
+2 CONT http://trees.ancestry.com/rd?f=image&guid=d8412243-81a3-4718-8fcd-1c3b2a54dba9&tid=36152016&pid=27
+1 FAMS @F31@
+1 FAMC @F50@
+0 @P28@ INDI 
+1 NAME Mavis /McFarlane/
+1 SEX F
+1 DEAT 
+2 DATE 2009
+1 FAMC @F30@
+0 @P29@ INDI 
+1 SEX M
+1 NAME William Robert /McFarlane/
+1 BIRT 
+2 DATE 1920
+1 DEAT 
+2 DATE 27 Dec 1944
+2 PLAC Japan
+1 NOTE _
+2 CONT http://trees.ancestry.com/rd?f=document&guid=590fac2d-0d4f-40a5-a1fb-015bf782cbc4&tid=36152016&pid=29
+1 FAMC @F30@
+0 @P30@ INDI 
+1 SEX M
+1 NAME John /McFarlane/
+1 FAMC @F6@
+0 @P31@ INDI 
+1 SEX F
+1 NAME Muriel /Smith/
+1 DEAT 
+2 PLAC Wanganui NZ
+1 FAMS @F6@
+0 @P32@ INDI 
+1 SEX M
+1 NAME Michael Francis 'Mick' /O'Connor/
+1 DEAT 
+2 DATE 20 Dec 1990
+1 FAMC @F7@
+1 FAMS @F19@
+0 @P33@ INDI 
+1 SEX F
+1 NAME Clarice Jane /O'Connor/
+1 BIRT 
+2 PLAC Mildura
+1 FAMC @F7@
+1 FAMS @F18@
+0 @P34@ INDI 
+1 SEX M
+1 NAME Patrick Joseph 'Pat' /O'Connor/
+1 DEAT 
+2 DATE 19 Sep 1991
+1 FAMC @F7@
+1 FAMS @F9@
+0 @P35@ INDI 
+1 NAME Veronica /O'Connor/
+1 SEX F
+1 FAMC @F7@
+0 @P36@ INDI 
 1 NAME Bernard Francis 'Barney' /O'Connor/
+1 SEX M
+1 DEAT 
+2 DATE 1914
+2 PLAC Mildura, Victoria, Australia
 1 BIRT 
 2 DATE 21 Mar 1843
 2 PLAC St John's Parish, Limerick City
-1 DEAT 
-2 DATE 1914
-2 PLAC Mildura
-1 FAMC @F5@
-1 FAMS @F11@
-0 @P20@ INDI 
-1 SEX M
-1 NAME Thomas /Hawkins/
-1 DEAT 
-2 DATE 5 Dec 1863
-2 PLAC Westbury, Tasmania
-1 BIRT 
-2 DATE 1810
-1 FAMS @F7@
-0 @P21@ INDI 
-1 SEX F
-1 NAME Mary /Lee/
-1 FAMS @F6@
-0 @P22@ INDI 
-1 SEX M
-1 NAME James /Knight/
-1 FAMS @F6@
-0 @P23@ INDI 
+1 FAMS @F8@
+1 FAMC @F11@
+0 @P37@ INDI 
 1 SEX F
 1 NAME Jane /Knight/
 1 DEAT 
@@ -159,88 +311,8 @@
 1 BIRT 
 2 DATE 1854
 2 PLAC Kyneton, Victoria, Australia
-1 FAMC @F6@
-1 FAMS @F11@
-0 @P24@ INDI 
-1 SEX F
-1 NAME Ellen /Fahey/
-0 @P25@ INDI 
-1 SEX M
-1 NAME John /Mackey/
-1 BIRT 
-2 PLAC Limerick Ireland
-0 @P27@ INDI 
-1 NAME Garry John /O'Connor/
-1 SEX M<a:facebookid><av>100001029729103</av><dd>08 Feb 2012</dd><wp /></a:facebookid>
-1 DEAT 
-2 PLAC ?
-1 BIRT 
-2 DATE Dec 1952
-2 PLAC Mildura
 1 FAMS @F8@
-1 FAMC @F10@
-0 @P28@ INDI 
-1 SEX M
-1 NAME John Michael /O'Connor/
-1 DEAT 
-2 DATE 1992
-1 BIRT 
-2 DATE 14 Sep 1919
-2 PLAC Mildura
-1 FAMC @F9@
-1 FAMS @F10@
-0 @P29@ INDI 
-1 NAME Rosemary Ann /O'Connor/
-1 SEX F
-1 FAMC @F10@
-0 @P30@ INDI 
-1 NAME Michael William /O'Connor/
-1 SEX M
-1 FAMC @F10@
-0 @P31@ INDI 
-1 SEX M
-1 NAME Martin Patrick /O'Connor/
-1 FAMC @F10@
-0 @P32@ INDI 
-1 SEX M
-1 NAME William Michael /O'Connor/
-1 DEAT 
-2 DATE 1970
-2 PLAC Mildura
-1 BIRT 
-2 DATE 1892
-2 PLAC Charlton
-1 FAMS @F9@
-1 FAMC @F11@
-0 @P33@ INDI 
-1 SEX M
-1 NAME Patrick Joseph /O'Connor/
-1 FAMC @F9@
-0 @P34@ INDI 
-1 NAME Veronica /O'Connor/
-1 SEX F
-1 FAMC @F9@
-0 @P35@ INDI 
-1 SEX F
-1 NAME Margaret Ellen /O'Connor/
-1 BIRT 
-2 DATE 1891
-2 PLAC Charlton, Victoria, Australia
-1 FAMC @F11@
-0 @P36@ INDI 
-1 SEX M
-1 NAME Denis /O'Connor/
-1 BIRT 
-2 DATE 1888
-2 PLAC Charlton
-1 FAMC @F11@
-0 @P37@ INDI 
-1 SEX F
-1 NAME Mary /O'Connor/
-1 BIRT 
-2 DATE 1878
-2 PLAC Charlton, Victoria
-1 FAMC @F11@
+1 FAMC @F12@
 0 @P38@ INDI 
 1 SEX F
 1 NAME Catherine /O'Connor/
@@ -250,91 +322,2602 @@
 1 DEAT 
 2 DATE 1884
 2 PLAC Charlton East
-1 FAMC @F11@
+1 FAMC @F8@
 0 @P39@ INDI 
-1 SEX F
-1 NAME Elizabeth /O'Connor/
-1 BIRT 
-2 DATE 1880
-2 PLAC Charlton, Victoria
-1 FAMC @F11@
-0 @P40@ INDI 
-1 SEX F
 1 NAME Jane /O'Connor/
+1 SEX F
 1 BIRT 
 2 DATE 1883
 2 PLAC Charlton, Victoria
-1 FAMC @F11@
+1 FAMC @F8@
+0 @P40@ INDI 
+1 SEX F
+1 NAME Elizabeth Marion /O'Connor/
+1 DEAT 
+2 DATE 1951
+1 BIRT 
+2 DATE 1880
+2 PLAC Charlton, Victoria
+1 FAMC @F8@
+1 FAMS @F28@
 0 @P41@ INDI 
 1 SEX M
 1 NAME James Michael /O'Connor/
+1 DEAT 
+2 DATE 17 Jun 1949
+2 PLAC Parkville Victoria
 1 BIRT 
-2 DATE 1884
+2 DATE 23 Aug 1884
 2 PLAC Charlton, Victoria, Australia
+1 FAMC @F8@
+0 @P42@ INDI 
+1 NAME Mary Ann /O'Connor/
+1 SEX F
+1 DEAT 
+2 DATE 1959
+2 PLAC Mildura, Victoria
+1 BIRT 
+2 DATE 1878
+2 PLAC Charlton, Victoria
+1 FAMC @F8@
+1 FAMS @F74@
+0 @P43@ INDI 
+1 NAME Denis /O'Connor/
+1 SEX M
+1 BIRT 
+2 DATE 1888
+2 PLAC Charlton
+1 FAMC @F8@
+0 @P44@ INDI 
+1 SEX M
+1 NAME James /Knight/
+1 FAMS @F12@
+0 @P45@ INDI 
+1 SEX F
+1 NAME Mary /Lee/
+1 FAMS @F12@
+0 @P46@ INDI 
+1 NAME Margaret Ellen /O'Connor/
+1 SEX F
+1 BIRT 
+2 DATE 1891
+2 PLAC Charlton, Victoria, Australia
+1 FAMC @F8@
+0 @P47@ INDI 
+1 NAME Mary /Mackey/
+1 SEX F
+1 DEAT 
+2 DATE 21 Aug 1897
+2 PLAC West Charlton, Victoria
+1 BIRT 
+2 DATE 7 Aug 1812
+2 PLAC Limerick, Co Limerick
+1 FAMS @F11@
+1 FAMS @F13@
+1 FAMC @F14@
+0 @P48@ INDI 
+1 SEX M
+1 NAME Dennis /O'Connor/
+1 BIRT 
+2 DATE 1815
+2 PLAC Limerick  Ireland
+1 FAMS @F11@
+0 @P49@ INDI 
+1 SEX F
+1 NAME Mary /Lynett?/
+1 DEAT 
+2 PLAC ?
+1 FAMS @F10@
+0 @P50@ INDI 
+1 SEX M
+1 NAME Thomas /Fernandez/
+1 DEAT 
+2 PLAC ?
+1 FAMS @F10@
+0 @P51@ INDI 
+1 SEX F
+1 NAME Vyonne /Bosley/
+1 FAMC @F9@
+0 @P52@ INDI 
+1 SEX M
+1 NAME Stephen /O'Connor/
+1 FAMC @F9@
+0 @P53@ INDI 
+1 SEX M
+1 NAME Ian Wayne /O'Connor/
+1 FAMC @F9@
+0 @P54@ INDI 
+1 SEX F
+1 NAME Iris /Brown/
+1 FAMS @F9@
+0 @P55@ INDI 
+1 SEX F
+1 NAME Mary
 1 FAMC @F11@
+0 @P56@ INDI 
+1 SEX M
+1 NAME Michael /O'Connor/
+1 DEAT 
+2 DATE 22 Sep 1925
+2 PLAC Charlton, Victoria, Australia
+1 BIRT 
+2 DATE 2 Mar 1847
+2 PLAC St John's Parish, Limerick City
+1 FAMC @F11@
+1 FAMS @F22@
+1 FAMS @F23@
+0 @P57@ INDI 
+1 SEX F
+1 NAME Catherine 'Kate' /O'Connor/
+1 BIRT 
+2 DATE 13 Mar 1845
+2 PLAC St John's Parish, Limerick City
+1 DEAT 
+2 DATE 18 Jul 1878
+2 PLAC St Arnaud, Victoria, Australia
+1 FAMC @F11@
+1 FAMS @F20@
+0 @P58@ INDI 
+1 SEX F
+1 NAME Ellen /Hawkins/
+1 DEAT 
+2 DATE 1889
+2 PLAC Charlton
+1 BIRT 
+2 DATE 15 May 1852
+2 PLAC Westbury Tasmania
+1 FAMC @F13@
+1 FAMS @F21@
+1 FAMS @F25@
+0 @P59@ INDI 
+1 SEX M
+1 NAME John /Mackey/
+1 BIRT 
+2 PLAC Limerick Ireland
+1 FAMS @F14@
+0 @P60@ INDI 
+1 NAME Ellen /Fahey/
+1 SEX F
+1 FAMS @F14@
+0 @P61@ INDI 
+1 SEX M
+1 NAME Thomas /Hawkins/
+1 DEAT 
+2 DATE 5 Dec 1863
+2 PLAC Westbury, Tasmania
+1 BIRT 
+2 DATE 1810
+1 FAMS @F13@
+0 @P62@ INDI 
+1 SEX M
+1 NAME Francis Bernard /Turner/
+1 RESI 
+2 PLAC Mildura, Mallee, Victoria, Australia
+1 DEAT 
+2 DATE 1979
+2 PLAC Mildura, Victoria
+1 BIRT 
+2 DATE 1910
+2 PLAC Mildura, Victoria
+1 RESI 
+2 PLAC Mildura, Mallee, Victoria, Australia
+1 RESI 
+2 PLAC Mildura, Mallee, Victoria, Australia
+1 FAMC @F74@
+1 FAMS @F75@
+0 @P63@ INDI 
+1 NAME William Charles /Turner/
+1 SEX M
+1 BIRT 
+2 DATE 1874
+2 PLAC Blackwood, Victoria
+1 DEAT 
+2 DATE 1961
+2 PLAC Mildura, Victoria
+1 FAMS @F74@
+1 FAMC @F104@
+0 @P64@ INDI 
+1 SEX M
+1 NAME Andrew John /fatt/
+1 DEAT 
+2 DATE 27 Aug 1987
+2 PLAC Mildura, Victoria, Australia
+1 BIRT 
+2 DATE 13 Feb 1916
+2 PLAC Merbein, Victoria, Australia
+1 FAMC @F28@
+1 FAMS @F88@
+0 @P65@ INDI 
+1 NAME Alexander /Fatt/
+1 SEX M
+1 DEAT 
+2 PLAC Mildura, Victoria, Australia
+1 BIRT 
+2 DATE 1880
+2 PLAC Currency Creek, South Australia, Australia
+1 FAMS @F28@
+1 FAMC @F87@
+0 @P66@ INDI 
+1 SEX M
+1 NAME Don /Wilson/
+1 FAMS @F18@
+0 @P67@ INDI 
+1 SEX F
+1 NAME June /Harvey/
+1 FAMS @F19@
+0 @P68@ INDI 
+1 SEX M
+1 NAME Charles /McCormick/
+1 BIRT 
+2 DATE 1876
+2 PLAC charlton, Victoria
+1 FAMC @F20@
+0 @P69@ INDI 
+1 SEX M
+1 NAME Charles /McCormick/
+1 DEAT 
+2 DATE 8 Nov 1921
+2 PLAC Bendigo
+1 BIRT 
+2 PLAC Mullingar, Ireland
+1 FAMS @F20@
+1 FAMS @F21@
+1 FAMC @F24@
+0 @P70@ INDI 
+1 NAME Ann /Brown/
+1 SEX F
+1 DEAT 
+2 DATE 13 May 1891
+1 FAMS @F24@
+0 @P71@ INDI 
+1 SEX M
+1 NAME Luke /McCormick/
+1 DEAT 
+2 DATE 1857
+2 PLAC Westbury, Tasmania
+1 BIRT 
+2 PLAC Mullingar Westmeath
+1 FAMS @F24@
+0 @P72@ INDI 
+1 SEX M
+1 NAME George /McCormick/
+1 FAMC @F21@
+0 @P73@ INDI 
+1 SEX F
+1 NAME Florence /McCormick/
+1 BIRT 
+2 DATE 1885
+2 PLAC Char, Victoria
+1 FAMC @F21@
+0 @P74@ INDI 
+1 NAME Ellen /McCormick/
+1 SEX F
+1 BIRT 
+2 DATE 1886
+2 PLAC Charlton
+1 FAMC @F21@
+0 @P75@ INDI 
+1 SEX F
+1 NAME Frances Mary /O'Connor/
+1 DEAT 
+2 DATE 3 Sep 1938
+2 PLAC Prahran  Melbourne Victoria
+1 BIRT 
+2 DATE 24 Feb 1868
+2 PLAC Westbury Tasmania
+1 FAMC @F23@
+1 FAMS @F89@
+0 @P76@ INDI 
+1 NAME Ann 'Annie' /Gledhill/
+1 SEX F
+1 BIRT 
+2 DATE 1855
+2 PLAC Ashby, Victoria, Australia
+1 DEAT 
+2 DATE 4 Jul 1943
+2 PLAC Charlton, Victoria
+1 FAMS @F22@
+0 @P77@ INDI 
+1 SEX M
+1 NAME James /O'Connor/
+1 DEAT 
+2 DATE 17 Jun 1949
+2 PLAC Parkville, Victoria
+1 BIRT 
+2 DATE 1883
+2 PLAC Charlton, Victoria, Australia
+1 FAMC @F22@
+1 FAMS @F29@
+0 @P78@ INDI 
+1 NAME Annie 'Sis' /O'Connor/
+1 SEX F
+1 BIRT 
+2 DATE 1887
+2 PLAC Charlton, Victoria
+1 DEAT 
+2 DATE 5 Apr 1981
+1 FAMC @F22@
+1 FAMS @F70@
+0 @P79@ INDI 
+1 SEX F
+1 NAME Mary Eliz 'Moll' /O'Connor/
+1 DEAT 
+2 DATE 13 Sep 1968
+2 PLAC Brunsiwick
+1 BIRT 
+2 DATE 1889
+2 PLAC Charlton, Victoria
+1 FAMC @F22@
+1 FAMS @F71@
+0 @P80@ INDI 
+1 SEX F
+1 NAME Agnes Myrtle /O'Connor/
+1 DEAT 
+2 DATE 1968
+2 PLAC Charlton, Victoria,
+1 BIRT 
+2 DATE 1891
+2 PLAC Charlton
+1 FAMC @F22@
+1 FAMS @F26@
+0 @P81@ INDI 
+1 NAME Mary /Johnson/
+1 SEX F
+1 BIRT 
+2 DATE 1852
+2 PLAC Hobart, Tasmania, Australia
+1 DEAT 
+2 DATE 1 Jul 1868
+2 PLAC Westbury Tasmania
+1 FAMS @F23@
+0 @P82@ INDI 
+1 NAME John Thomas 'Jack' /Dwyer/
+1 SEX M
+1 BIRT 
+2 DATE 10 Nov 1880
+2 PLAC East Charlton, Victoria, 
+1 DEAT 
+2 DATE 1951
+2 PLAC Charlton
+1 FAMC @F25@
+1 FAMS @F26@
+0 @P83@ INDI 
+1 SEX F
+1 NAME Ellen 'Nellie' /Dwyer/
+1 FAMC @F25@
+0 @P84@ INDI 
+1 SEX M
+1 NAME John /Dwyer/
+1 BIRT 
+2 DATE 1859
+1 DEAT 
+2 DATE Nov 1880
+2 PLAC Creswick
+1 FAMS @F25@
+0 @P85@ INDI 
+1 NAME Mary Joyclen /Dwyer/
+1 SEX F
+1 DEAT 
+2 DATE 1971
+2 PLAC Red Cliffs
+1 BIRT 
+2 DATE 1929
+2 PLAC Charlton, Victoria
+1 FAMC @F26@
+0 @P86@ INDI 
+1 SEX M
+1 NAME John Desmond /Dwyer/
+1 BIRT 
+2 DATE 1920
+1 DEAT 
+2 DATE 13 Jul 1964
+2 PLAC Queensland
+1 FAMC @F26@
+0 @P87@ INDI 
+1 SEX M
+1 NAME /?/
+1 FAMS @F27@
+0 @P88@ INDI 
+1 NAME /?/
+1 FAMS @F27@
+0 @P89@ INDI 
+1 NAME Alexander /fatt/
+1 SEX M
+1 FAMS @F87@
+0 @P90@ INDI 
+1 SEX F
+1 NAME Annie /Hunter/
+1 FAMS @F87@
+0 @P91@ INDI 
+1 NAME Marie Alexis 'Lexie' /O'Connor/
+1 SEX F
+1 BIRT 
+2 DATE 1917
+2 PLAC Bendigo
+1 DEAT 
+2 DATE 1993
+1 FAMC @F29@
+0 @P92@ INDI 
+1 SEX M
+1 NAME Kevin John /O'Connor/
+1 DEAT 
+2 DATE 5 May 1989
+2 PLAC Caulfield
+1 BIRT 
+2 DATE 10 Jun 1919
+2 PLAC Maryborough, Victoria, Australia
+1 FAMC @F29@
+1 FAMS @F116@
+0 @P93@ INDI 
+1 SEX M
+1 NAME Alan Francis /O'Connor/
+1 DEAT 
+2 DATE 1977
+2 PLAC Shepparton, Victoria, Australia
+1 BIRT 
+2 DATE 1922
+2 PLAC Bendigo, Victoria, Australia
+1 FAMC @F29@
+0 @P94@ INDI 
+1 SEX F
+1 NAME Marie Fidelis /O'Connor/
+1 DEAT 
+2 DATE 1976
+2 PLAC Barham, New South Wales
+1 BIRT 
+2 DATE 1896
+2 PLAC Leongatha, Victoria, Australia
+1 FAMS @F29@
+0 @P95@ INDI 
+1 NAME James 'Jimmie'  /Dunne/
+1 SEX M
+1 DEAT 
+2 DATE 1936
+1 BIRT 
+2 DATE 1926
+1 FAMC @F70@
+0 @P96@ INDI 
+1 SEX M
+1 NAME James /Dunne/
+1 FAMS @F70@
+0 @P97@ INDI 
+1 NAME Jos Albert /Rainford/
+1 SEX M
+1 DEAT 
+2 DATE 1942
+2 PLAC Melbourne
+1 BIRT 
+2 DATE 1889
+1 FAMS @F71@
+0 @P98@ INDI 
+1 NAME Victoria Alexandrina /Buckley/
+1 SEX F
+1 DEAT 
+2 DATE 1942
+2 PLAC Wentworth New South Wales Australia
+1 BIRT 
+2 DATE 24 May 1868
+2 PLAC Hay New South Wales Austraila
+1 FAMS @F33@
+1 FAMC @F42@
+0 @P99@ INDI 
+1 SEX M
+1 NAME Cecil Bennett /Mcfarlane/
+1 DEAT 
+2 DATE 1926
+2 PLAC Wentworth NSW Austalia
+1 BIRT 
+2 DATE 11 Feb 1859
+2 PLAC Beechworth, Victoria, Australia
+1 FAMS @F32@
+1 FAMS @F33@
+1 FAMC @F35@
+0 @P100@ INDI 
+1 SEX M
+1 NAME William Coasuli /Brown/
+1 DEAT 
+2 DATE 1943
+1 BIRT 
+2 DATE 1889
+2 PLAC Wilcannia, New South Wales
+1 FAMC @F31@
+1 FAMS @F58@
+0 @P101@ INDI 
+1 SEX F
+1 NAME Valentina E /Brown/
+1 BIRT 
+2 DATE 1895
+2 PLAC Wilcannia New South Wales Australia
+1 DEAT 
+2 DATE 1896
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F31@
+0 @P102@ INDI 
+1 NAME Elizabeth Jane /Brown/
+1 SEX F
+1 DEAT 
+2 DATE 18 Aug 1978
+2 PLAC Heidelberg, Victoria, Australia
+1 BIRT 
+2 DATE 18 Apr 1899
+2 PLAC White Cliffs, New South Wales, Australia
+1 FAMC @F31@
+1 FAMS @F61@
+0 @P103@ INDI 
+1 SEX M
+1 NAME Robert H /Brown/
+1 BIRT 
+2 DATE 1890
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F31@
+0 @P104@ INDI 
+1 SEX M
+1 NAME George J /Brown/
+1 BIRT 
+2 DATE 1892
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F31@
+0 @P105@ INDI 
+1 SEX F
+1 NAME Margaret M /Brown/
+1 BIRT 
+2 DATE 1 May 1902
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F31@
+0 @P106@ INDI 
+1 NAME Ellen /Scutchings/
+1 SEX F
+1 DEAT 
+2 DATE 2 Dec 1912
+2 PLAC Wilcannia New South Wales Australia
+1 BIRT 
+2 DATE 1840
+1 FAMS @F50@
+1 FAMC @F51@
+0 @P107@ INDI 
+1 NAME Thomas Henry /Brown/
+1 SEX M
+1 BIRT 
+2 DATE 1844
+1 FAMS @F50@
+1 FAMC @F105@
+0 @P108@ INDI 
+1 NAME Jessie /Bennett/
+1 SEX F
+1 RESI 
+2 PLAC Bairnsdale
+1 BIRT 
+2 DATE 1828
+2 PLAC Stirling Stirlingshire Scotland
+1 DEAT 
+2 DATE 22 Jul 1885
+2 PLAC Bairnsdale, Victoria, Australia
+1 RESI 
+2 PLAC Bairnsdale
+1 FAMS @F35@
+0 @P109@ INDI 
+1 SEX F
+1 NAME Catherine Mary /Hughes/
+1 DEAT 
+2 DATE 1942
+2 PLAC Bankstown, New South Wales, Australia
+1 BIRT 
+2 DATE 1866
+1 FAMS @F32@
+1 FAMS @F83@
+1 FAMC @F84@
+0 @P110@ INDI 
+1 SEX M
+1 NAME Malcolm /McFarlane/
+1 DEAT 
+2 DATE 20 Jan 1901
+2 PLAC Stradbroke Is, Queensland, Australia
+1 BIRT 
+2 DATE 1827
+2 PLAC Stirling Logie Scotland
+1 FAMS @F34@
+1 FAMS @F35@
+1 FAMC @F36@
+0 @P111@ INDI 
+1 SEX F
+1 NAME Helen /Christie/
+1 DEAT 
+2 DATE 4 May 1883
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 BIRT 
+2 DATE 17 May 1801
+2 PLAC Logie  Stirling Scotland
+1 RESI 
+2 PLAC Logie, Clackmannanshire, Scotland
+1 FAMS @F36@
+1 FAMC @F37@
+0 @P112@ INDI 
+1 SEX F
+1 NAME Delia /McGuire/
+1 DEAT 
+2 DATE 1929
+2 PLAC Walkerston, Queensland, Australia
+1 BIRT 
+2 DATE 1847
+2 PLAC Brisbane, Queensland, Australia
+1 FAMS @F34@
+0 @P113@ INDI 
+1 NAME John Christie /McFarlane/
+1 SEX M
+1 DEAT 
+2 DATE 5 Jan 1939
+2 PLAC Parkes, , New South Wales, Australia
+1 BIRT 
+2 DATE 16 Jan 1854
+2 PLAC Collingwood, , Victoria, Australia
+1 FAMC @F35@
+0 @P114@ INDI 
+1 NAME William /McFarlane/
+1 SEX M
+1 BIRT 
+2 DATE 11 Dec 1858
+2 PLAC Beechworth, , Victoria, Australia
+1 DEAT 
+2 DATE 5 Dec 1951
+2 PLAC Parkes, , New South Wales, Australia
+1 FAMC @F35@
+1 FAMS @F45@
+0 @P115@ INDI 
+1 NAME Jessie /McFarlane/
+1 SEX F
+1 BIRT 
+2 DATE 12 Oct 1862
+2 PLAC Elderado, , Victoria, Australia
+1 FAMC @F35@
+1 FAMS @F47@
+0 @P116@ INDI 
+1 SEX M
+1 NAME Robert Langton /McFarlane/
+1 DEAT 
+2 DATE 11 Oct 1943
+2 PLAC "Woodstock", Cowra, New South Wales, Australia
+1 BIRT 
+2 DATE 23 Aug 1863
+2 PLAC Woolshed, Victoria, Australia
+1 FAMC @F35@
+1 FAMS @F46@
+0 @P117@ INDI 
+1 NAME Malcolm /McFarlane/
+1 SEX M
+1 RESI 
+2 PLAC Clackmannanshire, Scotland
+1 BIRT 
+2 DATE 1804
+2 PLAC Oban, Argyll, Scotland
+1 DEAT 
+2 DATE 19 Dec 1875
+2 PLAC Causeyhead Parish Logie,,Perth,Scotland
+1 FAMS @F36@
+1 FAMS @F106@
+0 @P118@ INDI 
+1 SEX M
+1 NAME John /McFarlane/
+1 BIRT 
+2 DATE 1825
+2 PLAC Logie Scotland
+1 FAMC @F106@
+0 @P119@ INDI 
+1 NAME Joseph /McFarlane/
+1 SEX M
+1 BIRT 
+2 DATE 1830
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 DEAT 
+2 PLAC Australia
+1 FAMC @F106@
+0 @P120@ INDI 
+1 SEX M
+1 NAME William Christie /McFarlane/
+1 DEAT 
+2 DATE 1906
+2 PLAC Wodonga Victoria
+1 RESI 
+2 PLAC Wodonga West, Indi, Victoria, Australia
+1 BIRT 
+2 DATE 20 Jan 1833
+2 PLAC Perth, Perthshire, Scotland
+1 FAMC @F106@
+0 @P121@ INDI 
+1 SEX F
+1 NAME Mary Bondles /McFarlane/
+1 BIRT 
+2 DATE 4 Jun 1835
+2 PLAC Perth, Perthshire, , Scotland
+1 FAMC @F106@
+0 @P122@ INDI 
+1 SEX F
+1 NAME Helen /Towers/
+1 BIRT 
+2 DATE 21 Dec 1767
+2 PLAC Airth, Stirlingshire, Scotland
+1 FAMS @F37@
+1 FAMC @F107@
+0 @P123@ INDI 
+1 SEX M
+1 NAME John /Christie/
+1 BIRT 
+2 DATE 1767
+2 PLAC Scotland
+1 FAMS @F37@
+0 @P124@ INDI 
+1 NAME Helen /Christie/
+1 SEX F
+1 BIRT 
+2 DATE 15 Jul 1793
+2 PLAC Logie, Stirlingshire, Scotland
+1 FAMC @F37@
+0 @P125@ INDI 
+1 SEX M
+1 NAME John /Christie/
+1 BIRT 
+2 DATE 1 Jan 1795
+2 PLAC Logie, Stirlingshire, Scotland
+1 FAMC @F37@
+0 @P126@ INDI 
+1 SEX F
+1 NAME Jean /Christie/
+1 BIRT 
+2 DATE 1798
+2 PLAC Perth, Perthshire, Scotland
+1 FAMC @F37@
+0 @P127@ INDI 
+1 NAME Margaret /Christie/
+1 SEX F
+1 BIRT 
+2 DATE 14 Aug 1803
+2 PLAC Logie, Stirlingshire, Scotland
+1 FAMC @F37@
+0 @P128@ INDI 
+1 SEX M
+1 NAME William /Christie/
+1 DEAT 
+2 DATE 1881
+2 PLAC Scotland
+1 BIRT 
+2 DATE Feb 1806
+2 PLAC Logie, Stirlingshire, Scotland
+1 FAMC @F37@
+0 @P129@ INDI 
+1 NAME Elizabeth /Christie/
+1 SEX F
+1 BIRT 
+2 DATE 1808
+1 FAMC @F37@
+0 @P130@ INDI 
+1 SEX F
+1 NAME Elizabeth /Christie/
+1 BIRT 
+2 DATE 1808
+1 FAMC @F37@
+0 @P131@ INDI 
+1 NAME Robert /Towers/
+1 SEX M
+1 BIRT 
+2 DATE 15 Aug 1725
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMS @F38@
+1 FAMS @F107@
+1 FAMC @F108@
+0 @P132@ INDI 
+1 SEX M
+1 NAME James /Towers/
+1 BIRT 
+2 DATE 1699
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMS @F39@
+1 FAMS @F108@
+0 @P133@ INDI 
+1 SEX F
+1 NAME Janet /Smith/
+1 BIRT 
+2 DATE 29 Jan 1725
+2 PLAC Balfron, Stirlingshire, Scotland
+1 FAMS @F38@
+1 FAMC @F40@
+0 @P134@ INDI 
+1 SEX M
+1 NAME James /Smith/
+1 BIRT 
+2 DATE 16 Mar 1701
+2 PLAC Balfron Stirling Scotland
+1 FAMS @F40@
+1 FAMC @F41@
+0 @P135@ INDI 
+1 NAME Agnes /Fairlie/
+1 SEX F
+1 BIRT 
+2 DATE 1704
+2 PLAC Balfron, Stirlingshire, Scotland
+1 FAMS @F40@
+0 @P136@ INDI 
+1 NAME John I /Towers/
+1 SEX M
+1 BIRT 
+2 DATE Mar 1722
+2 PLAC Bothkennar, Stirlingshire, Scotland, UK
+1 DEAT 
+2 DATE 1781
+2 PLAC Bothkennar, Stirlingshire, Scotland, UK
+1 FAMC @F39@
+0 @P137@ INDI 
+1 SEX F
+1 NAME Marion /Towers/
+1 BIRT 
+2 DATE 20 Mar 1728
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMC @F39@
+0 @P138@ INDI 
+1 SEX M
+1 NAME James II /Towers/
+1 BIRT 
+2 DATE 6 May 1729
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMC @F39@
+0 @P139@ INDI 
+1 SEX F
+1 NAME Jennet /Towers/
+1 BIRT 
+2 DATE 10 Mar 1734
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMC @F39@
+0 @P140@ INDI 
+1 SEX F
+1 NAME Janet /Mitchell/
+1 BIRT 
+2 DATE 1703
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 FAMS @F39@
+0 @P141@ INDI 
+1 SEX M
+1 NAME Walter* /Smith/
+1 BIRT 
+2 DATE 1675
+2 PLAC Balfron, Stirlingshire, Scotland
+1 FAMS @F41@
+0 @P142@ INDI 
+1 SEX F
+1 NAME Margaret* /Miller/
+1 BIRT 
+2 DATE 22 May 1680
+2 PLAC Balfron, Stirlingshire, Scotland
+1 FAMS @F41@
+0 @P143@ INDI 
+1 SEX F
+1 NAME Elizabeth /Dingwall/
+1 RESI 
+2 PLAC Victoria, Australia
+1 DEAT 
+2 DATE 1881
+2 PLAC Horsham Vic Australia
+1 BIRT 
+2 DATE 14 Jun 1830
+2 PLAC Inverness Scotland
+1 RESI 
+2 PLAC Victoria, Australia
+1 FAMS @F42@
+1 FAMC @F44@
+0 @P144@ INDI 
+1 SEX M
+1 NAME Samuel Stanley Hall /Buckley/
+1 DEAT 
+2 PLAC Australia
+1 BIRT 
+2 DATE 1 Dec 1816
+2 PLAC Sheffield Yorkshire England
+1 FAMS @F42@
+1 FAMC @F43@
+0 @P145@ INDI 
+1 SEX F
+1 NAME Mary /Eyres/
+1 BIRT 
+2 DATE 1793
+2 PLAC Lostock Gralam, Cheshire, England
+1 DEAT 
+2 DATE 8 Aug 1868
+2 PLAC Davenham, Cheshire, England
+1 FAMS @F43@
+0 @P146@ INDI 
+1 SEX M
+1 NAME Thomas /Buckley/
+1 DEAT 
+2 DATE 1840
+2 PLAC Davenham Chesire
+1 RESI 
+2 PLAC Over, Cheshire, England
+1 BIRT 
+2 DATE 1 Jul 1781
+2 PLAC Bostock Cheshire
+1 FAMS @F43@
+0 @P147@ INDI 
+1 SEX M
+1 NAME Alexander /Dingwall/
+1 BIRT 
+2 DATE 1791
+2 PLAC Ross and Cromarty, Scotland
+1 RESI 
+2 PLAC Ross and Cromarty, Scotland
+1 FAMS @F44@
+0 @P148@ INDI 
+1 SEX F
+1 NAME Eliza /Matheson/
+1 RESI 
+2 PLAC Ross and Cromarty, Scotland
+1 BIRT 
+2 DATE 1796
+2 PLAC Ross and Cromarty, Scotland
+1 FAMS @F44@
+0 @P149@ INDI 
+1 NAME Mary /Dingwall/
+1 SEX F
+1 BIRT 
+2 DATE 6 Apr 1815
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P150@ INDI 
+1 NAME Jean /Dingwall/
+1 SEX F
+1 BIRT 
+2 DATE 6 Sep 1817
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P151@ INDI 
+1 NAME Alexander /Dingwall/
+1 SEX M
+1 BIRT 
+2 DATE 9 Aug 1819
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P152@ INDI 
+1 NAME Cameron /Dingwall/
+1 SEX M
+1 BIRT 
+2 DATE 12 Dec 1823
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P153@ INDI 
+1 NAME Janet /Dingwall/
+1 SEX F
+1 BIRT 
+2 DATE 20 Dec 1825
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P154@ INDI 
+1 SEX M
+1 NAME John /Dingwall/
+1 BIRT 
+2 DATE 30 Jan 1828
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P155@ INDI 
+1 SEX M
+1 NAME William /Dingwall/
+1 BIRT 
+2 DATE 24 Aug 1828
+1 FAMC @F44@
+0 @P156@ INDI 
+1 NAME Camerina /Dingwall/
+1 SEX F
+1 BIRT 
+2 DATE 14 Jun 1832
+2 PLAC Ross and Cromarty, Scotland
+1 FAMC @F44@
+0 @P157@ INDI 
+1 NAME Elizabeth /MURPHY/
+1 SEX F
+1 BIRT 
+2 DATE 1835
+2 PLAC Summerhill, County Meath, Ireland
+1 DEAT 
+2 DATE 16 Apr 1931
+2 PLAC Lidcombe, Sydney, New South Wales, Australia
+1 FAMS @F84@
+1 FAMC @F109@
+0 @P158@ INDI 
+1 SEX M
+1 NAME John James /ALLEN/
+1 FAMS @F83@
+0 @P159@ INDI 
+1 SEX M
+1 NAME Michael /Hughes/
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 DEAT 
+2 DATE 24 Feb 1926
+2 PLAC Albury, New South Wales, Australia
+1 BIRT 
+2 DATE 1834
+2 PLAC Summer Hill, County Meath Ireland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 FAMS @F84@
+1 FAMC @F85@
+0 @P160@ INDI 
+1 NAME Ivy May /McFarlane/
+1 SEX F
+1 BIRT 
+2 DATE 1905
+1 DEAT 
+2 DATE 5 Dec 1912
+1 FAMC @F45@
+0 @P161@ INDI 
+1 SEX M
+1 NAME Joseph Edgar /McFarlane/
+1 DEAT 
+2 DATE 24 Aug 1951
+2 PLAC Parkes, , New South Wales, Australia
+1 BIRT 
+2 DATE 29 Sep 1894
+2 PLAC Baldry, , New South Wales, Australia
+1 FAMC @F45@
+0 @P162@ INDI 
+1 SEX F
+1 NAME Violet Jessie /McFarlane/
+1 BIRT 
+2 DATE 16 May 1892
+1 FAMC @F45@
+0 @P163@ INDI 
+1 NAME Robert John /McFarlane/
+1 SEX M
+1 BIRT 
+2 DATE 1890
+1 FAMC @F45@
+0 @P164@ INDI 
+1 SEX F
+1 NAME Lily May /McFarlane/
+1 BIRT 
+2 DATE 31 May 1889
+1 FAMC @F45@
+0 @P165@ INDI 
+1 NAME William George /McFarlane/
+1 SEX M
+1 BIRT 
+2 DATE 31 May 1889
+1 FAMC @F45@
+0 @P166@ INDI 
+1 SEX F
+1 NAME Rose Florance /McFarlane/
+1 FAMC @F45@
+0 @P167@ INDI 
+1 SEX F
+1 NAME Myrtle Olive /McFarlane/
+1 FAMC @F45@
+0 @P168@ INDI 
+1 SEX M
+1 NAME Edwin Mark /McFarlane/
+1 FAMC @F45@
+0 @P169@ INDI 
+1 SEX M
+1 NAME Albert Arthur /McFarlane/
+1 FAMC @F45@
+0 @P170@ INDI 
+1 NAME Mary Jane /Stephens/
+1 SEX F
+1 DEAT 
+2 DATE 2 Mar 1955
+2 PLAC Parkes, , New South Wales, Australia
+1 BIRT 
+2 DATE 30 Apr 1866
+2 PLAC Forbes, , New South Wales, Australia
+1 FAMS @F45@
+0 @P171@ INDI 
+1 NAME Jessie /Simmons/
+1 SEX F
+1 BIRT 
+2 DATE 24 Jun 1879
+2 PLAC Rutherglen, , Victoria, Australia
+1 DEAT 
+2 PLAC Cowra, , New South Wales, Australia
+1 FAMC @F47@
+0 @P172@ INDI 
+1 NAME Edwin Thomas /Simmons/
+1 SEX M
+1 BIRT 
+2 DATE 10 Jan 1881
+2 PLAC Footscray, , Victoria, Australia
+1 DEAT 
+2 DATE 30 Jun 1885
+2 PLAC Bairnsdale, , Victoria, Australia
+1 FAMC @F47@
+0 @P173@ INDI 
+1 NAME Ethel May /Simmons/
+1 SEX F
+1 BIRT 
+2 DATE 14 Jan 1884
+2 PLAC Bairnsdale, , Victoria, Australia
+1 DEAT 
+2 DATE 13 Jan 1885
+2 PLAC Bairnsdale, , Victoria, Australia
+1 FAMC @F47@
+0 @P174@ INDI 
+1 NAME Glen /Simmons/
+1 SEX M
+1 BIRT 
+2 DATE 3 Dec 1887
+1 FAMC @F47@
+0 @P175@ INDI 
+1 NAME Charles Alfred /Simmons/
+1 SEX M
+1 BIRT 
+2 DATE 24 Apr 1889
+1 FAMC @F47@
+0 @P176@ INDI 
+1 SEX M
+1 NAME Thomas Edwin /Simmons/
+1 FAMS @F47@
+0 @P177@ INDI 
+1 SEX M
+1 NAME Robert Alexander /Mcfarlane/
+1 DEAT 
+2 DATE 26 Sep 1917
+2 PLAC , , , France
+1 BIRT 
+2 DATE 20 Oct 1895
+2 PLAC Wongarbon, , New South Wales, Australia
+1 FAMC @F46@
+0 @P178@ INDI 
+1 NAME Jessie Gladys /McFarlane/
+1 SEX F
+1 DEAT 
+2 DATE 30 Jan 1982
+2 PLAC Chesalon Nursing Home, , New South Wales, Australia
+1 BIRT 
+2 DATE 5 Jun 1897
+2 PLAC Wongarbon, , New South Wales, Australia
+1 FAMC @F46@
+0 @P179@ INDI 
+1 NAME Jack Stewart /McFarlane/
+1 SEX M
+1 DEAT 
+2 DATE 18 Jul 1992
+2 PLAC Lithgow, New South Wales, Australia
+1 BIRT 
+2 DATE 23 Apr 1899
+2 PLAC Wongarbon, New South Wales, Australia
+1 FAMC @F46@
+1 FAMS @F48@
+0 @P180@ INDI 
+1 NAME Frank Gordon /McFarlane/
+1 SEX M
+1 BIRT 
+2 DATE 30 Oct 1901
+2 PLAC Wongarbon, , New South Wales, Australia
+1 DEAT 
+2 DATE 1969
+1 FAMC @F46@
+0 @P181@ INDI 
+1 SEX M
+1 NAME Thomas Langton /McFarlane/
+1 DEAT 
+2 DATE 18 Jun 1997
+2 PLAC Blacktown, , New South Wales, Australia
+1 BIRT 
+2 DATE 20 Mar 1910
+2 PLAC Geurie, , New South Wales, Australia
+1 FAMC @F46@
+0 @P182@ INDI 
+1 SEX M
+1 NAME Keith /McFarlane/
+1 _MILT NX201278
+1 DEAT 
+2 DATE 3 Jun 1977
+2 PLAC Repat, Kenmore, Queensland, Australia
+1 BIRT 
+2 DATE 21 Jul 1915
+2 PLAC Geurie, New South Wales, Australia
+1 NOTE NX201278
+2 CONT http://trees.ancestry.com/rd?f=document&guid=2ddc5b0f-5ef6-4222-b23e-a037440d7757&tid=36152016&pid=182
+1 FAMC @F46@
+1 FAMS @F49@
+0 @P183@ INDI 
+1 NAME Eliza May /Stewart/
+1 SEX F
+1 DEAT 
+2 DATE 23 Sep 1939
+2 PLAC Wellington, , New South Wales, Australia
+1 BIRT 
+2 DATE 5 May 1873
+2 PLAC Bylong, , New South Wales, Australia
+1 FAMS @F46@
+0 @P184@ INDI 
+1 SEX F
+1 NAME Violet Vera /Webster/
+1 RESI 
+2 PLAC Wongarbon, Calare, New South Wales, Australia
+1 DEAT 
+2 DATE 28 Oct 1911
+2 PLAC Ulmarra, New South Wales, Australia
+1 BIRT 
+2 DATE 1911
+2 PLAC Wellington NSW Australia
+1 FAMS @F48@
+0 @P185@ INDI 
+1 NAME Doris Iris Daphne /Madgwick/
+1 SEX F
+1 DEAT 
+2 PLAC Sydney, New South Wales, Australia
+1 FAMS @F49@
+0 @P186@ INDI 
+1 SEX M
+1 NAME Robert /Murchland/
+1 DEAT 
+2 DATE 1875
+2 PLAC Bourke, New South Wales, Australia
+1 BIRT 
+2 DATE 25 Feb 1828
+2 PLAC Stevenston, Scotland, United Kingdom
+1 FAMS @F53@
+1 FAMC @F54@
+0 @P187@ INDI 
+1 SEX F
+1 NAME Jane /Gray/
+1 BIRT 
+2 DATE 1833
+2 PLAC North Leith, Scotland, United Kingdom
+1 DEAT 
+2 DATE 1916
+2 PLAC Wilcannia New South Wales Australia
+1 FAMS @F53@
+1 FAMC @F60@
+0 @P188@ INDI 
+1 SEX F
+1 NAME Florence /Mantell/
+1 BIRT 
+2 DATE 1907
+2 PLAC White Cliffs, , New South Wales, Australia
+1 FAMC @F52@
+0 @P189@ INDI 
+1 NAME Martha /Mantell/
+1 SEX F
+1 BIRT 
+2 DATE 1906
+2 PLAC White Cliffs, , New South Wales, Australia
+1 FAMC @F52@
+0 @P190@ INDI 
+1 SEX F
+1 NAME Charlotte /Mantell/
+1 BIRT 
+2 DATE 1910
+2 PLAC White Cliffs, , New South Wales, Australia
+1 FAMC @F52@
+0 @P191@ INDI 
+1 SEX M
+1 NAME James /Mantell/
+1 FAMS @F52@
+0 @P192@ INDI 
+1 SEX F
+1 NAME Alice /Brown/
+1 DEAT 
+2 DATE 3 Mar 1923
+2 PLAC Sydney, New South Wales, Australia
+1 BIRT 
+2 DATE 8 Feb 1861
+2 PLAC Long Gully, South Australia
+1 FAMC @F50@
+1 FAMS @F67@
+1 FAMS @F69@
+0 @P193@ INDI 
+1 SEX M
+1 NAME Henry William /Brown/
+1 RESI 
+2 PLAC Long Gulley Nr Auburn
+1 BIRT 
+2 DATE 1859
+2 PLAC Wakefield, South Australia
+1 DEAT 
+2 DATE 1860
+2 PLAC Long Gulley Nr Auburn, South Australia
+1 RESI 
+2 PLAC Long Gulley Nr Auburn
+1 FAMC @F50@
+0 @P194@ INDI 
+1 NAME Emma Jane /Brown/
+1 SEX F
+1 BIRT 
+2 DATE 1858
+2 PLAC Wakefield River, South Australia
+1 FAMC @F50@
+0 @P195@ INDI 
+1 NAME George /Brown/
+1 SEX M
+1 FAMS @F105@
+0 @P196@ INDI 
+1 NAME /?/
+1 SEX F
+1 FAMS @F51@
+0 @P197@ INDI 
+1 NAME James /Scutchings/
+1 SEX M
+1 BIRT 
+2 DATE 1820
+1 FAMS @F51@
+0 @P198@ INDI 
+1 NAME James /Rutherford/
+1 SEX M
+1 FAMS @F69@
+0 @P199@ INDI 
+1 SEX M
+1 NAME Herbert Thomas Bruce /Peter/
+1 DEAT 
+2 DATE 17 Dec 1941
+2 PLAC White Cliffs NSW Australia
+1 BIRT 
+2 DATE 28 Sep 1891
+2 PLAC Wilcannia NSW Australia
+1 FAMC @F67@
+0 @P200@ INDI 
+1 SEX F
+1 NAME Alice Jane /Peter/
+1 BIRT 
+2 DATE 8 Oct 1893
+2 PLAC Wilcannia, New South Wales, Australia
+1 DEAT 
+2 DATE 15 Oct 1976
+2 PLAC Sydney, New South Wales, Australia
+1 FAMC @F67@
+0 @P201@ INDI 
+1 SEX F
+1 NAME Florence Ida M /Peter/
+1 DEAT 
+2 DATE 31 Jul 1963
+2 PLAC North Sydney, New South Wales, Australia
+1 BIRT 
+2 DATE 22 Feb 1888
+2 PLAC Wilcannia, New South Wales, Australia
+1 FAMC @F67@
+0 @P202@ INDI 
+1 SEX M
+1 NAME William Thomas Bruce /Peter/
+1 DEAT 
+2 DATE 21 Mar 1885
+2 PLAC Wilcannia NSW Australia
+1 BIRT 
+2 DATE 10 Jun 1884
+2 PLAC Wilcannia NSW Australia
+1 FAMC @F67@
+0 @P203@ INDI 
+1 SEX M
+1 NAME Charles Frederick Bruce /Peter/
+1 DEAT 
+2 DATE 28 May 1968
+2 PLAC Broken Hill, New South Wales, Australia
+1 BIRT 
+2 DATE 10 Oct 1885
+2 PLAC Wilcannia, New South Wales, Australia
+1 FAMC @F67@
+0 @P204@ INDI 
+1 SEX M
+1 NAME Edward David Bruce /Peter/
+1 DEAT 
+2 DATE Dec 1923
+2 PLAC Wilcannia NSW Australia
+1 BIRT 
+2 DATE 20 Mar 1882
+2 PLAC Wilcannia NSW Australia
+1 FAMC @F67@
+0 @P205@ INDI 
+1 SEX F
+1 NAME Jean 1898 /Peter/
+1 BIRT 
+2 DATE 20 Nov 1898
+2 PLAC Bourke New South Wales Australia
+1 DEAT 
+2 DATE 19 Jul 1958
+2 PLAC Wagga Wagga, New South Wales, Australia
+1 FAMC @F67@
+0 @P206@ INDI 
+1 SEX M
+1 NAME Thomas Finlay Donald Bruce /Peter/
+1 BIRT 
+2 DATE 20 Oct 1901
+2 PLAC Bourke, New South Wales, Australia
+1 DEAT 
+2 DATE 16 Sep 1966
+2 PLAC Wilcannia, New South Wales, Australia
+1 FAMC @F67@
+0 @P207@ INDI 
+1 SEX F
+1 NAME Margaret Helen /Peter/
+1 DEAT 
+2 DATE 12 Apr 1984
+2 PLAC Sydney, New South Wales, Australia
+1 BIRT 
+2 DATE 8 Dec 1898
+2 PLAC Wilcannia, New South Wales, Australia
+1 FAMC @F67@
+1 FAMS @F112@
+0 @P208@ INDI 
+1 SEX M
+1 NAME William Alexander /Peter/
+1 DEAT 
+2 DATE 20 Sep 1909
+2 PLAC Willcannia, NSW, Australia
+1 BIRT 
+2 DATE 5 Feb 1845
+2 PLAC Born At Sea
+1 FAMS @F67@
+0 @P209@ INDI 
+1 NAME William /Murchland/
+1 SEX M
+1 BIRT 
+2 DATE 1864
+2 PLAC Star Victoria Australia
+1 FAMC @F53@
+1 FAMS @F65@
+0 @P210@ INDI 
+1 NAME Martha /Brown/
+1 SEX F
+1 RESI 
+2 PLAC Toxteth Park, Lancashire, England
+1 BIRT 
+2 DATE 25 Aug 1793
+2 PLAC Stevenston
+1 RESI 
+2 PLAC Toxteth Park, Lancashire, England
+1 FAMS @F54@
+1 FAMC @F56@
+0 @P211@ INDI 
+1 SEX M
+1 NAME William /Murchland/
+1 RESI 
+2 PLAC Kirkdale, Lancashire, England
+1 BIRT 
+2 DATE 1789
+2 PLAC Stevenston, Ayrshire, Scotland
+1 RESI 
+2 PLAC Kirkdale, Lancashire, England
+1 FAMS @F54@
+1 FAMC @F110@
+0 @P212@ INDI 
+1 NAME Margaret /Hook/
+1 SEX F
+1 BIRT 
+2 DATE 1820
+2 PLAC Kirkoswald, Wigtonshire
+1 RESI 
+2 PLAC Newton On Ayr, Ayrshire, Scotland
+1 FAMS @F60@
+0 @P213@ INDI 
+1 SEX M
+1 NAME James /Gray/
+1 RESI 
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 BIRT 
+2 DATE 1820
+2 PLAC Leswalt, Wigtonshire
+1 RESI 
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 FAMS @F60@
+0 @P214@ INDI 
+1 NAME Martha /Murchland/
+1 SEX F
+1 RESI 
+2 PLAC Kirkdale, Lancashire, England
+1 BIRT 
+2 DATE 20 Jul 1815
+2 PLAC Stevenston, Ayrshire, Scotland
+1 RESI 
+2 PLAC Kirkdale, Lancashire, England
+1 FAMC @F54@
+1 FAMS @F66@
+0 @P215@ INDI 
+1 NAME Elizabeth /Murchland/
+1 SEX F
+1 BIRT 
+2 DATE 4 Jan 1818
+2 PLAC Stevenston, Ayr, Scotland
+1 DEAT 
+2 DATE 16 Jan 1869
+2 PLAC Stevenston, Ayr, Scotland
+1 FAMC @F54@
+0 @P216@ INDI 
+1 SEX M
+1 NAME James /Murchland/
+1 DEAT 
+2 DATE 1 Jan 1856
+2 PLAC Saltcoats
+1 BIRT 
+2 DATE 2 Jul 1820
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F54@
+1 FAMS @F55@
+0 @P217@ INDI 
+1 NAME Ann Brown /Murchland/
+1 SEX F
+1 BIRT 
+2 DATE 31 Jul 1825
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F54@
+0 @P218@ INDI 
+1 SEX F
+1 NAME Jane /Murchland/
+1 BIRT 
+2 DATE 10 Jun 1830
+2 PLAC Stevenston
+1 FAMC @F54@
+0 @P219@ INDI 
+1 SEX M
+1 NAME William /Murchland/
+1 BIRT 
+2 DATE 11 Oct 1832
+2 PLAC Stevenston
+1 FAMC @F54@
+0 @P220@ INDI 
+1 SEX M
+1 NAME John /Murchland/
+1 BIRT 
+2 DATE 15 Nov 1765
+2 PLAC Stevenston, Ayr, Scotland
+1 FAMS @F110@
+0 @P221@ INDI 
+1 NAME Martha /Walker/
+1 SEX F
+1 BIRT 
+2 DATE 9 Jul 1758
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMS @F56@
+1 FAMC @F57@
+0 @P222@ INDI 
+1 SEX M
+1 NAME Robert /Brown/
+1 BIRT 
+2 DATE 16 Sep 1748
+2 PLAC Stevenston
+1 FAMS @F56@
+0 @P223@ INDI 
+1 SEX M
+1 NAME John /STEVEN/
+1 BIRT 
+2 DATE 1813
+2 PLAC Stewarton, Ayrshire, Scotland
+1 FAMS @F66@
+0 @P224@ INDI 
+1 NAME Charles /Murchland/
+1 SEX M
+1 BIRT 
+2 DATE 1847
+2 PLAC Saltcoats
+1 DEAT 
+2 DATE 1926
+2 PLAC Irvine
+1 FAMC @F55@
+1 FAMS @F93@
+0 @P225@ INDI 
+1 NAME Agnes /Logan/
+1 SEX F
+1 BIRT 
+2 DATE 1821
+2 PLAC Stevenson
+1 FAMS @F55@
+1 FAMC @F111@
+0 @P226@ INDI 
+1 SEX F
+1 NAME Mary /Brown/
+1 DEAT 
+2 DATE 22 Apr 1863
+2 PLAC Stevenston, Ayrshire, Scotland
+1 BIRT 
+2 DATE 15 Jul 1790
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F56@
+1 FAMS @F72@
+0 @P227@ INDI 
+1 NAME Jane /Alexander/
+1 SEX F
+1 BIRT 
+2 DATE 1720
+1 FAMS @F57@
+0 @P228@ INDI 
+1 NAME John /Walker/
+1 SEX M
+1 BIRT 
+2 DATE 1720
+1 FAMS @F57@
+0 @P229@ INDI 
+1 SEX F
+1 NAME Agnes /Walker/
+1 BIRT 
+2 DATE 15 Oct 1761
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F57@
+0 @P230@ INDI 
+1 NAME Margaret /Walker/
+1 SEX F
+1 BIRT 
+2 DATE 25 Jul 1756
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F57@
+0 @P231@ INDI 
+1 NAME Jane /Walker/
+1 SEX F
+1 BIRT 
+2 DATE 28 Feb 1754
+1 FAMC @F57@
+0 @P232@ INDI 
+1 NAME John /Walker/
+1 SEX M
+1 BIRT 
+2 DATE 9 Dec 1750
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F57@
+0 @P233@ INDI 
+1 SEX F
+1 NAME Margaret /Walker/
+1 BIRT 
+2 DATE 13 Oct 1748
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F57@
+0 @P234@ INDI 
+1 SEX F
+1 NAME Jess /Brown/
+1 BIRT 
+2 DATE 1913
+1 DEAT 
+2 DATE 5 Feb 1930
+2 PLAC Menindee, New South Wales
+1 FAMC @F58@
+0 @P235@ INDI 
+1 SEX M
+1 NAME Allan Hazelwood /Brown/
+1 RESI 
+2 PLAC Menindee, Darling, New South Wales, Australia
+1 DEAT 
+2 DATE 15 Oct 1986
+2 PLAC New South Wales, Australia
+1 BIRT 
+2 DATE 2 Jun 1912
+2 PLAC Australia
+1 RESI 
+2 PLAC Menindee, Darling, New South Wales, Australia
+1 FAMC @F58@
+1 FAMS @F59@
+0 @P236@ INDI 
+1 SEX F
+1 NAME Maude Ellen /Travis/
+1 DEAT 
+2 DATE 2 Mar 1954
+2 PLAC Croydon, South Australia,Australia
+1 BIRT 
+2 DATE 1890
+2 PLAC Wentworth, New South Wales
+1 FAMS @F58@
+1 FAMC @F86@
+0 @P237@ INDI 
+1 SEX M
+1 NAME Thomas Henry /Robbins/
+1 DEAT 
+2 DATE 4 Jun 1945
+2 PLAC Labuan North Borneo
+1 BIRT 
+2 DATE 13 Jul 1901
+2 PLAC Wilcannia Nsw Australia
+1 FAMS @F61@
+1 FAMC @F62@
+0 @P238@ INDI 
+1 SEX M
+1 NAME Joseph William /Travis/
+1 BIRT 
+2 DATE 1866
+2 PLAC Wilcannia, New South Wales
+1 FAMS @F86@
+0 @P239@ INDI 
+1 SEX F
+1 NAME Jessie Amelia /Hazelwood/
+1 DEAT 
+2 DATE 27 Nov 1951
+1 BIRT 
+2 DATE 18 Oct 1868
+2 PLAC Balranald, New South Wales, Australia
+1 FAMC @F63@
+1 FAMS @F86@
+0 @P240@ INDI 
+1 NAME Daphne Frances /Curran/
+1 SEX F
+1 RESI 
+2 PLAC Menindee, Darling, New South Wales, Australia
+1 DEAT 
+2 DATE 1 Dec 1996
+2 PLAC Broken Hill, New South Wales, Australia
+1 BIRT 
+2 DATE 25 Jan 1925
+2 PLAC Australia
+1 RESI 
+2 PLAC Menindee, Darling, New South Wales, Australia
+1 FAMS @F59@
+1 FAMC @F64@
+0 @P241@ INDI 
+1 NAME /?/
+1 FAMS @F64@
+0 @P242@ INDI 
+1 SEX M
+1 NAME /?/
+1 FAMS @F64@
+0 @P243@ INDI 
+1 SEX F
+1 NAME Margaret /Gray/
+1 RESI 
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 BIRT 
+2 DATE 1846
+2 PLAC Kirkoswald, Wigtonshire
+1 RESI 
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 FAMC @F60@
+0 @P244@ INDI 
+1 SEX F
+1 NAME Jane /Gray/
+1 RESI 
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 BIRT 
+2 DATE 1848
+2 PLAC Ballantrae, Wigtonshire
+1 FAMC @F60@
+0 @P245@ INDI 
+1 NAME Sarah /Gray/
+1 SEX F
+1 RESI 
+2 PLAC Newton On Ayr, Ayrshire, Scotland
+1 BIRT 
+2 DATE 1857
+2 PLAC Maybole, Ayrshire
+1 FAMC @F60@
+0 @P246@ INDI 
+1 NAME Mary Elizabeth /Walsh/
+1 DEAT 
+2 DATE 1923
+2 PLAC Broken Hill NSW No 14288
+1 FAMS @F62@
+0 @P247@ INDI 
+1 SEX M
+1 NAME Alfred Philpot /Robbins/
+1 DEAT 
+2 DATE 1939
+2 PLAC Broken Hill NSW  No 12270
+1 BIRT 
+2 DATE 1856
+2 PLAC Penrith NSW No 7182
+1 FAMS @F62@
+0 @P248@ INDI 
+1 SEX M
+1 NAME Clarence Leslie 'Les" /Hosking/
+1 DEAT 
+2 DATE 1 Jul 1963
+2 PLAC Heidelberg, Vic
+1 BIRT 
+2 DATE 7 Oct 1891
+2 PLAC Maryborough Vic
+1 FAMC @F89@
+1 FAMS @F91@
+0 @P249@ INDI 
+1 NAME William Leslie /Hosking/
+1 SEX M
+1 DEAT 
+2 DATE 1908
+2 PLAC Tasmania, Australia
+1 BIRT 
+2 DATE 1889
+2 PLAC Maryborough, Vic
+1 FAMC @F89@
+1 FAMS @F92@
+0 @P250@ INDI 
+1 SEX F
+1 NAME Harriett Ettie Elizabeth /Hosking/
+1 RESI 
+2 PLAC Gormanston, Darwin, Tasmania, Australia
+1 DEAT 
+2 DATE 1967
+2 PLAC Caulfield, Victoria, Australia
+1 BIRT 
+2 DATE 1893
+2 PLAC Maryborough, Victoria, Australia
+1 RESI 
+2 PLAC Gormanston, Darwin, Tasmania, Australia
+1 FAMC @F89@
+1 FAMS @F90@
+0 @P251@ INDI 
+1 NAME Nicholas /Hosking/
+1 SEX M
+1 BIRT 
+2 DATE 1858
+2 PLAC Illinois, United States
+1 DEAT 
+2 DATE 29 Jan 1920
+2 PLAC Maryborough, Victoria, Australia
+1 FAMS @F89@
+0 @P252@ INDI 
+1 SEX M
+1 NAME Walter William /Robbins/
+1 BIRT 
+2 DATE 17 Oct 1895
+2 PLAC Bourke, New South Wales, Australia
+1 DEAT 
+2 DATE 1964
+2 PLAC Melbourne, Victoria, Australia
+1 FAMC @F62@
+0 @P253@ INDI 
+1 SEX M
+1 NAME Alfred Philpot /Robbins/
+1 BIRT 
+2 DATE 21 Dec 1892
+2 PLAC Bourke, New South Wales, Australia
+1 DEAT 
+2 DATE 30 Oct 1917
+2 PLAC Camiers, Pas-de-Calais, Nord-Pas-de-Calais, France
+1 FAMC @F62@
+0 @P254@ INDI 
+1 SEX M
+1 NAME Charles James Bernard /Robbins/
+1 DEAT 
+2 DATE 22 Dec 1963
+2 PLAC Broken Hill, New South Wales, Australia
+1 RESI 
+2 PLAC Broken Hill South, Darling, New South Wales, Australia
+1 BIRT 
+2 DATE 26 Feb 1890
+2 PLAC Bourke, New South Wales, Australia
+1 FAMC @F62@
+0 @P255@ INDI 
+1 SEX M
+1 NAME Albert Edward /Robbins/
+1 DEAT 
+2 DATE Jun 1973
+1 BIRT 
+2 DATE 16 Nov 1903
+2 PLAC Wilcannia, New South Wales, Australia
+1 FAMC @F62@
+0 @P256@ INDI 
+1 SEX M
+1 NAME Joseph William /Travis/
+1 BIRT 
+2 DATE 1887
+2 PLAC Wilcannia, New South Wales
+1 DEAT 
+2 DATE 1912
+2 PLAC Mildura, Victoria
+1 FAMC @F86@
+0 @P257@ INDI 
+1 NAME Leslie J /Travis/
+1 SEX M
+1 DEAT 
+2 DATE 1911
+2 PLAC Menindee, New South Wales, Australia
+1 BIRT 
+2 DATE 1911
+2 PLAC Menindee, New South Wales, Australia
+1 FAMC @F86@
+0 @P258@ INDI 
+1 SEX M
+1 NAME John /Hazelwood/
+1 DEAT 
+2 DATE 22 Dec 1891
+2 PLAC Euston NSW
+1 RESI 
+2 PLAC United Kingdom
+1 BIRT 
+2 DATE 1822
+2 PLAC Aberdeen, Aberdeenshire, Scotland
+1 FAMS @F63@
+0 @P259@ INDI 
+1 NAME Mary Ann /Carberry/
+1 SEX F
+1 RESI 
+2 PLAC New South Wales, Austalia
+1 DEAT 
+2 DATE 8 Oct 1893
+2 PLAC Balranald New South Wales Australia
+1 BIRT 
+2 DATE 1823
+2 PLAC Dublin, Ireland, 
+1 FAMS @F63@
+0 @P260@ INDI 
+1 SEX M
+1 NAME Vern /Curran/
+1 DEAT 
+2 DATE 1981
+2 PLAC Broken Hill, New South Wales, Australia
+1 BIRT 
+2 DATE 1916
+2 PLAC Menindee, Darling, New South Wales, Australia
+1 FAMC @F64@
+0 @P261@ INDI 
+1 SEX F
+1 NAME Gloria May /Curran/
+1 DEAT 
+2 PLAC Parkes, New South Wales, Australia
+1 FAMC @F64@
+0 @P262@ INDI 
+1 NAME Annie I /Murchland/
+1 SEX F
+1 BIRT 
+2 DATE 1899
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P263@ INDI 
+1 SEX F
+1 NAME Leslie G /Murchland/
+1 DEAT 
+2 DATE 1898
+2 PLAC Wilcannia New South Wales Australia
+1 BIRT 
+2 DATE 1896
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P264@ INDI 
+1 SEX M
+1 NAME James /Murchland/
+1 BIRT 
+2 DATE 1894
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P265@ INDI 
+1 SEX M
+1 NAME William /Murchland/
+1 BIRT 
+2 DATE 1891
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P266@ INDI 
+1 SEX M
+1 NAME William R /Murchland/
+1 BIRT 
+2 DATE 1901
+2 PLAC Wilcannia
+1 FAMC @F65@
+0 @P267@ INDI 
+1 SEX F
+1 NAME Alice J /Murchland/
+1 BIRT 
+2 DATE 1904
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P268@ INDI 
+1 SEX F
+1 NAME Margaret M /Murchland/
+1 BIRT 
+2 DATE 1907
+2 PLAC Wilcannia New South Wales Australia
+1 FAMC @F65@
+0 @P269@ INDI 
+1 SEX F
+1 NAME Margaret /Baker/
+1 FAMS @F65@
+0 @P270@ INDI 
+1 NAME Robert Brown /Banks/
+1 SEX M
+1 RESI 
+2 PLAC Stevenston, Ayrshire, Scotland
+1 DEAT 
+2 DATE 1 Mar 1879
+2 PLAC Stevenston, Ayr, Scotland
+1 BIRT 
+2 DATE 3 Apr 1824
+2 PLAC Stevenston, Ayr, Scotland
+1 RESI 
+2 PLAC Stevenston, Ayrshire, Scotland
+1 FAMC @F72@
+1 FAMS @F73@
+0 @P271@ INDI 
+1 SEX M
+1 NAME Alexander /Banks/
+1 DEAT 
+2 DATE 1863
+2 PLAC Stevenston, Ayrshire, Scotland
+1 BIRT 
+2 DATE 31 Dec 1786
+2 PLAC Stevenston, Ayr, Scotland
+1 FAMS @F72@
+0 @P272@ INDI 
+1 NAME William Alexander /Peter/
+1 SEX M
+1 BIRT 
+2 DATE 17 Apr 1924
+2 PLAC Sydney, New South Wales, Australia
+1 DEAT 
+2 DATE 4 May 2006
+2 PLAC Nabiac, New South Wales, Australia
+1 FAMS @F68@
+1 FAMC @F112@
+0 @P273@ INDI 
+1 SEX M
+1 NAME Jack James /Peter/
+1 DEAT 
+2 DATE 22 Jul 1987
+2 PLAC Sydney Buried Sussex Inlet NSW
+1 BIRT 
+2 DATE 14 Jan 1926
+2 PLAC Sydney, New South Wales, Australia
+1 FAMC @F112@
+0 @P274@ INDI 
+1 SEX F
+1 NAME Dorothy May /Bagnall/
+1 BIRT 
+2 DATE 3 Oct 1926
+2 PLAC Sydney, New South Wales, Australia
+1 DEAT 
+2 DATE 24 Jul 2000
+2 PLAC Taree, New South Wales, Australia
+1 FAMS @F68@
+1 FAMC @F113@
+0 @P275@ INDI 
+1 SEX F
+1 NAME Elizabeth May /Bennett/
+1 FAMS @F113@
+0 @P276@ INDI 
+1 SEX F
+1 NAME Annabella Kelso /Ballantine/
+1 DEAT 
+2 DATE 1 Mar 1893
+2 PLAC Stevenston, Ayr, Scotland
+1 BIRT 
+2 DATE 14 Dec 1830
+2 PLAC Stevenston, Ayr, Scotland
+1 FAMS @F73@
+1 FAMC @F114@
+0 @P277@ INDI 
+1 NAME Campbell /Ballantine/
+1 SEX M
+1 BIRT 
+2 DATE 1850
+2 PLAC Stevenston,Ayr,,Scotland
+1 DEAT 
+2 DATE 1881
+1 FAMS @F76@
+1 FAMS @F114@
+1 FAMC @F115@
+0 @P278@ INDI 
+1 SEX F
+1 NAME Erin Margaret /O'Connor/
+1 BIRT 
+2 DATE 27 Jul 1947
+2 PLAC Shepparton, Victoria, Australia
+1 DEAT 
+2 DATE 9 Dec 2005
+2 PLAC Calvary Hospital, Canberra, Australia
+1 FAMC @F116@
+0 @P279@ INDI 
+1 NAME Angela Mary /O'Connor/
+1 SEX F
+1 BIRT 
+2 DATE 24 Mar 1958
+2 PLAC Melbourne, Victoria, Australia
+1 DEAT 
+2 DATE 1 Apr 2003
+2 PLAC Melbourne, Victoria, Australia
+1 FAMC @F116@
+0 @P280@ INDI 
+1 NAME Mary Armstrong /Kane/
+1 SEX F
+1 DEAT 
+2 DATE 1919
+2 PLAC Mansfield, Victoria, Australia
+1 BIRT 
+2 DATE 1851
+2 PLAC Durham, Durham, England, United Kingdom
+1 FAMS @F104@
+1 FAMC @F117@
+0 @P281@ INDI 
+1 SEX F
+1 NAME Helen Victoria /Wilson/
+1 BIRT 
+2 DATE 21 Jan 1917
+1 DEAT 
+2 DATE 25 Feb 1994
+2 PLAC Mildura, Vic, Australia
+1 FAMS @F75@
+0 @P282@ INDI 
+1 SEX F
+1 NAME Annabella /Kelso/
+1 DEAT 
+2 DATE 1824
+2 PLAC Stevenston, Ayrshire
+1 BIRT 
+2 DATE 10 Jan 1779
+2 PLAC Stevenston, Ayrshire
+1 FAMS @F77@
+1 FAMS @F115@
+0 @P283@ INDI 
+1 SEX F
+1 NAME Elizabeth /Dunlop/
+1 FAMS @F76@
+0 @P284@ INDI 
+1 NAME John /Ballantyne/
+1 SEX M
+1 DEAT 
+2 DATE 18 May 1859
+2 PLAC Saltcoats, Ayrshire
+1 BIRT 
+2 DATE 12 May 1779
+2 PLAC Stevenston, Ayrshire
+1 FAMS @F77@
+1 FAMC @F118@
+0 @P285@ INDI 
+1 NAME Janet /Campbell/
+1 SEX F
+1 BIRT 
+2 DATE 1756
+2 PLAC Stevenston, Ayrshire
+1 DEAT 
+2 DATE 12 Jan 1818
+2 PLAC Little Dubbs, Stevensston, Ayrshire
+1 FAMS @F78@
+1 FAMS @F118@
+0 @P286@ INDI 
+1 SEX M
+1 NAME John /Ballantyne/
+1 BIRT 
+2 DATE 5 Jul 1728
+2 PLAC Moatyet, Lesmahagow, Lanarkshire
+1 FAMS @F78@
+1 FAMC @F81@
+0 @P287@ INDI 
+1 SEX F
+1 NAME Mary /Inglis/
+1 BIRT 
+2 DATE 26 Jun 1726
+2 PLAC Glasgow
+1 FAMS @F81@
+1 FAMC @F119@
+0 @P288@ INDI 
+1 SEX M
+1 NAME John /Ballantyne/
+1 BIRT 
+2 DATE 5 Jul 1728
+2 PLAC Moatyet, Lesmahagow, Lanarkshire
+1 FAMS @F81@
+1 FAMC @F120@
+0 @P289@ INDI 
+1 NAME Mary /Eason/
+1 SEX F
+1 FAMS @F79@
+1 FAMS @F119@
+0 @P290@ INDI 
+1 SEX M
+1 NAME William /Inglis/
+1 FAMS @F79@
+0 @P291@ INDI 
+1 SEX F
+1 NAME Grissell /Lin/
+1 BIRT 
+2 DATE 1704
+2 PLAC Pettinain, Lanarkshire
+1 FAMS @F80@
+0 @P292@ INDI 
+1 NAME Robert /Ballantyne/
+1 SEX M
+1 BIRT 
+2 DATE 15 Sep 1695
+2 PLAC Lanarkshire
+1 FAMS @F80@
+1 FAMC @F82@
+1 FAMS @F120@
+0 @P293@ INDI 
+1 SEX F
+1 NAME Christian /Todd/
+1 BIRT 
+2 DATE 1665
+2 PLAC Scotland
+1 FAMS @F82@
+0 @P294@ INDI 
+1 SEX M
+1 NAME Robert /Ballantyne/
+1 BIRT 
+2 DATE 1660
+2 PLAC Lesmahagow, Lanarkshire
+1 FAMS @F82@
+0 @P295@ INDI 
+1 SEX M
+1 NAME william /Ballentyne/
+1 BIRT 
+2 DATE 1693
+1 FAMC @F82@
+0 @P296@ INDI 
+1 SEX F
+1 NAME Maria /Hughes/
+1 BIRT 
+2 DATE 1856
+1 FAMC @F84@
+0 @P297@ INDI 
+1 NAME Margaret /Hughes/
+1 SEX F
+1 DEAT 
+2 DATE 27 Sep 1938
+1 BIRT 
+2 DATE 1858
+2 PLAC Willunga, South Australia, Australia
+1 FAMC @F84@
+1 FAMS @F98@
+0 @P298@ INDI 
+1 SEX M
+1 NAME Henry /Hughes/
+1 DEAT 
+2 DATE 1928
+2 PLAC New South Wales, Australia
+1 BIRT 
+2 DATE 1863
+2 PLAC Willunga, South Australia, Australia
+1 FAMC @F84@
+0 @P299@ INDI 
+1 SEX M
+1 NAME Stephen /HUGHES/
+1 BIRT 
+2 DATE 1871
+2 PLAC Western Australia, Australia
+1 DEAT 
+2 DATE 1920
+2 PLAC Sydney, New South Wales, Australia
+1 FAMC @F84@
+0 @P300@ INDI 
+1 SEX M
+1 NAME Patrick Joseph /Hughes/
+1 DEAT 
+2 DATE 7 Jan 1934
+2 PLAC Lidcombe Hospital, New South Wales, Australia
+1 BIRT 
+2 DATE 8 Sep 1876
+2 PLAC Barnawartha, Victoria, Australia
+1 FAMC @F84@
+1 FAMS @F96@
+0 @P301@ INDI 
+1 SEX F
+1 NAME Elizabeth Catherine /Hughes/
+1 DEAT 
+2 DATE 1941
+2 PLAC Drummoyne, New South Wales, Australia
+1 BIRT 
+2 DATE 1 Apr 1854
+2 PLAC Willunga, South Australia, Australia
+1 FAMC @F84@
+1 FAMS @F99@
+0 @P302@ INDI 
+1 NAME Marcella /Hughes/
+1 SEX F
+1 BIRT 
+2 DATE 1868
+2 PLAC Willunga, South Australia, Australia
+1 DEAT 
+2 DATE 1951
+2 PLAC Hurstville, New South Wales, Australia
+1 FAMC @F84@
+0 @P303@ INDI 
+1 NAME Margaret (Mary) /Bannon/
+1 SEX F
+1 BIRT 
+2 DATE 1806
+2 PLAC Dunsany County Meath Ireland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 FAMS @F85@
+1 FAMC @F97@
+0 @P304@ INDI 
+1 NAME Matthew /Hughes/
+1 SEX M
+1 DEAT 
+2 DATE 1860
+2 PLAC County, Galway, Ireland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 BIRT 
+2 DATE 1799
+2 PLAC County Meath, Ireland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 FAMS @F85@
+0 @P305@ INDI 
+1 NAME John /Murphy/
+1 SEX M
+1 FAMS @F109@
+0 @P306@ INDI 
+1 NAME George /Hughes/
+1 SEX M
+1 BIRT 
+2 DATE 1832
+2 PLAC Ireland
+1 RESI 
+2 PLAC Gorbals, Lanarkshire, Scotland
+1 FAMC @F85@
+0 @P307@ INDI 
+1 NAME Henry Albert /Hughes/
+1 SEX M
+1 BIRT 
+2 DATE 1832
+2 PLAC Summerhill, County Meath, Ireland
+1 DEAT 
+2 DATE 20 Apr 1904
+2 PLAC Lockhart, New South Wales, Australia
+1 FAMC @F85@
+1 FAMS @F95@
+0 @P308@ INDI 
+1 NAME Peter /Hughes/
+1 SEX M
+1 BIRT 
+2 DATE 9 Mar 1830
+2 PLAC Garadice, Summerhill, County Meath, Ireland
+1 DEAT 
+2 DATE 26 Jul 1917
+2 PLAC Wangaratta, Victoria, Australia
+1 FAMC @F85@
+0 @P309@ INDI 
+1 NAME Brian /Hughes/
+1 SEX M
+1 BIRT 
+2 DATE 24 Apr 1827
+2 PLAC Garadice, Summerhill, County Meath, Ireland
+1 FAMC @F85@
+0 @P310@ INDI 
+1 SEX M
+1 NAME James /Hughes/
+1 DEAT 
+2 DATE 8 Feb 1904
+1 BIRT 
+2 DATE 26 Jan 1824
+2 PLAC Garadice, Summerhill, County Meath, Ireland
+1 FAMC @F85@
+0 @P311@ INDI 
+1 SEX F
+1 NAME Margaret /McNamee/
+1 FAMS @F97@
+0 @P312@ INDI 
+1 NAME Bryan /Bannon/
+1 SEX M
+1 FAMS @F97@
+0 @P313@ INDI 
+1 SEX F
+1 NAME Hilda Minnie /Leask/
+1 DEAT 
+2 DATE 7 Aug 1996
+2 PLAC Mildura, Victoria, Australia
+1 BIRT 
+2 DATE 22 Jul 1920
+2 PLAC Mildura, Victoria, Australia
+1 FAMS @F88@
+0 @P314@ INDI 
+1 NAME Elizabeth /Armstrong/
+1 SEX F
+1 DEAT 
+2 DATE 1908
+2 PLAC Violet Town, Victoria, Australia
+1 BIRT 
+2 DATE 1821
+1 FAMS @F103@
+1 FAMS @F117@
+1 FAMC @F121@
+0 @P315@ INDI 
+1 NAME Thomas George /Kane/
+1 SEX M
+1 FAMS @F103@
+0 @P316@ INDI 
+1 SEX F
+1 NAME Mary /Pattison/
+1 FAMS @F121@
+0 @P317@ INDI 
+1 SEX M
+1 NAME Thomas Andrew /LEECH/
+1 DEAT 
+2 DATE 1972
+2 PLAC Oakleigh, Victoria, Australia
+1 RESI 
+2 PLAC Gormanston, Darwin, Tasmania, Australia
+1 BIRT 
+2 DATE 1887
+2 PLAC Malmsbury, Upper Coliban-Campaspe District, Victoria, Australia
+1 FAMS @F90@
+0 @P318@ INDI 
+1 NAME Traugott Leslie /Leech/
+1 SEX M
+1 DEAT 
+2 DATE 1979
+2 PLAC Victoria, Australia
+1 BIRT 
+2 DATE 1916
+2 PLAC Tasmania, Australia
+1 RESI 
+2 PLAC St Kilda West, Melbourne Ports, Victoria, Australia
+1 FAMC @F90@
+0 @P319@ INDI 
+1 SEX F
+1 NAME Ada Minnie /Herbert/
+1 BIRT 
+2 DATE 1891
+2 PLAC Launceston, Tasmania, Australia
+1 DEAT 
+2 DATE 1983
+2 PLAC Melbourne, Victoria, Australia
+1 FAMS @F91@
+0 @P320@ INDI 
+1 SEX F
+1 NAME Elizabeth Opie /Anear/
+1 FAMS @F92@
+0 @P321@ INDI 
+1 NAME Charles /Logan/
+1 SEX M
+1 BIRT 
+2 DATE 27 Jul 1789
+1 FAMS @F111@
+0 @P322@ INDI 
+1 SEX F
+1 NAME Annie Frances /Murchland/
+1 DEAT 
+2 DATE 25 Jun 1906
+2 PLAC Bressay, Shetland
+1 BIRT 
+2 DATE 19 Dec 1873
+2 PLAC Irvine
+1 FAMC @F93@
+1 FAMS @F94@
+0 @P323@ INDI 
+1 SEX F
+1 NAME Frances /Green/
+1 BIRT 
+2 DATE 1852
+2 PLAC Ardrossan
+1 FAMS @F93@
+0 @P324@ INDI 
+1 NAME Charles Murchland /Morrison/
+1 SEX M
+1 BIRT 
+2 DATE 12 Jun 1906
+2 PLAC Bressay, Shetland
+1 DEAT 
+2 DATE 1984
+2 PLAC Peebles
+1 FAMC @F94@
+0 @P325@ INDI 
+1 SEX M
+1 NAME John Rae /Morrison/
+1 DEAT 
+2 DATE 1987
+2 PLAC Coldingham
+1 BIRT 
+2 DATE 10 Oct 1902
+2 PLAC Bressay, Shetland
+1 FAMC @F94@
+0 @P326@ INDI 
+1 SEX M
+1 NAME John /Morrison/
+1 DEAT 
+2 DATE 1944
+2 PLAC Whitehill , Banffshire
+1 BIRT 
+2 DATE 20 Jun 1869
+2 PLAC Glasgow
+1 FAMS @F94@
+0 @P327@ INDI 
+1 NAME Louisa Henrietta Caroline /Ahorns/
+1 SEX F
+1 BIRT 
+2 DATE 1853
+2 PLAC Hannover, Stadt Hannover, Niedersachsen, Germany
+1 DEAT 
+2 DATE 1 Jun 1937
+2 PLAC Australia
+1 FAMS @F95@
+1 FAMC @F100@
+0 @P328@ INDI 
+1 NAME Henry /AHORNS/
+1 SEX M
+1 FAMS @F100@
+0 @P329@ INDI 
+1 SEX F
+1 NAME Louisa Henrietta /SAUBIER/
+1 BIRT 
+2 DATE 1831
+1 DEAT 
+2 DATE 1908
+1 FAMS @F100@
+1 FAMS @F102@
+0 @P330@ INDI 
+1 SEX M
+1 NAME NICHOLAS /LEONARD/
+1 DEAT 
+2 DATE 28 Jul 1918
+2 PLAC Corowa, New South Wales, Australia
+1 BIRT 
+2 DATE 1841
+2 PLAC Rush, 5302, Ireland
+1 FAMS @F98@
+0 @P331@ INDI 
+1 SEX F
+1 NAME Jane /Cuthel/
+1 BIRT 
+2 DATE 30 Dec 1876
+2 PLAC Theresa Park, Camden, NSW, Australia
+1 DEAT 
+2 DATE 9 Jun 1955
+2 PLAC Bankstown, Sydney, New South Wales, Australia
+1 FAMS @F96@
+0 @P332@ INDI 
+1 NAME Joseph Francis /McDEVITT/
+1 SEX M
+1 DEAT 
+2 DATE 1915
+2 PLAC Waverley, New South Wales, Australia
+1 BIRT 
+2 DATE 1 Jun 1848
+2 PLAC Donegal, Ireland
+1 FAMS @F99@
+0 @P333@ INDI 
+1 NAME Andreas J /BAUMGARTEN/
+1 SEX M
+1 BIRT 
+2 DATE 1811
+1 DEAT 
+2 DATE 1877
+1 FAMS @F101@
+1 FAMS @F102@
+0 @P334@ INDI 
+1 NAME Caroline /HENE/
+1 SEX F
+1 FAMS @F101@
 0 @F1@ FAM 
-1 HUSB @P3@
-1 WIFE @P1@
-1 CHIL @P2@
+1 HUSB @P2@
+1 WIFE @P3@
+1 CHIL @P1@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P4@
-2 _FREL Natural
-2 _MREL Natural
+1 DIV 
+2 PLAC ?
 0 @F2@ FAM 
-1 HUSB @P5@
-1 WIFE @P7@
-1 CHIL @P6@
+1 HUSB @P4@
+1 WIFE @P5@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
 2 _FREL Natural
 2 _MREL Natural
 0 @F3@ FAM 
-1 HUSB @P12@
-1 WIFE @P8@
-1 CHIL @P9@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @P10@
+1 HUSB @P7@
+1 WIFE @P6@
+1 CHIL @P2@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @P11@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @P13@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
 0 @F4@ FAM 
-1 HUSB @P14@
-1 WIFE @P15@
-1 CHIL @P16@
+1 HUSB @P12@
+1 WIFE @P23@
+1 CHIL @P22@
 2 _FREL Natural
 2 _MREL Natural
 0 @F5@ FAM 
-1 HUSB @P17@
-1 WIFE @P18@
-1 CHIL @P19@
+1 HUSB @P19@
+1 WIFE @P14@
+1 CHIL @P18@
 2 _FREL Natural
 2 _MREL Natural
 0 @F6@ FAM 
-1 HUSB @P22@
-1 WIFE @P21@
-1 CHIL @P23@
+1 HUSB @P26@
+1 WIFE @P31@
+1 CHIL @P30@
 2 _FREL Natural
 2 _MREL Natural
 0 @F7@ FAM 
-1 HUSB @P20@
-1 WIFE @P18@
-0 @F8@ FAM 
-1 HUSB @P27@
-1 WIFE @P4@
-1 CHIL @P26@
+1 HUSB @P10@
+1 WIFE @P9@
+1 CHIL @P7@
 2 _FREL Natural
 2 _MREL Natural
-1 DIV 
-2 PLAC ?
-0 @F9@ FAM 
-1 HUSB @P32@
-1 WIFE @P16@
-1 CHIL @P28@
+1 CHIL @P32@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @P33@
@@ -343,51 +2926,962 @@
 1 CHIL @P34@
 2 _FREL Natural
 2 _MREL Natural
-0 @F10@ FAM 
-1 HUSB @P28@
-1 WIFE @P13@
-1 CHIL @P7@
+1 CHIL @P35@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P27@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @P29@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @P30@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @P31@
-2 _FREL Natural
-2 _MREL Natural
-0 @F11@ FAM 
-1 HUSB @P19@
-1 WIFE @P23@
-1 CHIL @P37@
+0 @F8@ FAM 
+1 HUSB @P36@
+1 WIFE @P37@
+1 CHIL @P42@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @P38@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P39@
+1 CHIL @P40@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P40@
+1 CHIL @P39@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @P41@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 19 Sep 1877
+2 PLAC St Patrick's Church, St Arnaud, Victoria
+0 @F9@ FAM 
+1 HUSB @P34@
+1 WIFE @P54@
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM 
+1 HUSB @P50@
+1 WIFE @P49@
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P48@
+1 WIFE @P47@
 1 CHIL @P36@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P35@
+1 CHIL @P55@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @P32@
+1 CHIL @P57@
 2 _FREL Natural
 2 _MREL Natural
-1 DIV 
-2 PLAC ?
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM 
+1 HUSB @P44@
+1 WIFE @P45@
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+0 @F13@ FAM 
+1 HUSB @P61@
+1 WIFE @P47@
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+0 @F14@ FAM 
+1 HUSB @P59@
+1 WIFE @P60@
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P21@
+1 WIFE @P13@
+0 @F16@ FAM 
+1 HUSB @P20@
+1 WIFE @P13@
+0 @F17@ FAM 
+1 HUSB @P17@
+1 WIFE @P14@
+0 @F18@ FAM 
+1 HUSB @P66@
+1 WIFE @P33@
+0 @F19@ FAM 
+1 HUSB @P32@
+1 WIFE @P67@
+0 @F20@ FAM 
+1 HUSB @P69@
+1 WIFE @P57@
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 Jun 1874
+2 PLAC St Andrews Kirk, Ballarat
+0 @F21@ FAM 
+1 HUSB @P69@
+1 WIFE @P58@
+1 CHIL @P72@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+0 @F22@ FAM 
+1 HUSB @P56@
+1 WIFE @P76@
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+0 @F23@ FAM 
+1 HUSB @P56@
+1 WIFE @P81@
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+0 @F24@ FAM 
+1 HUSB @P71@
+1 WIFE @P70@
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+0 @F25@ FAM 
+1 HUSB @P84@
+1 WIFE @P58@
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P83@
+2 _FREL Natural
+2 _MREL Natural
+0 @F26@ FAM 
+1 HUSB @P82@
+1 WIFE @P80@
+1 CHIL @P86@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P85@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM 
+1 HUSB @P87@
+1 WIFE @P88@
+0 @F28@ FAM 
+1 HUSB @P65@
+1 WIFE @P40@
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+0 @F29@ FAM 
+1 HUSB @P77@
+1 WIFE @P94@
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM 
+1 HUSB @P15@
+1 WIFE @P16@
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+0 @F31@ FAM 
+1 HUSB @P27@
+1 WIFE @P24@
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P101@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+0 @F32@ FAM 
+1 HUSB @P99@
+1 WIFE @P109@
+0 @F33@ FAM 
+1 HUSB @P99@
+1 WIFE @P98@
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+0 @F34@ FAM 
+1 HUSB @P110@
+1 WIFE @P112@
+0 @F35@ FAM 
+1 HUSB @P110@
+1 WIFE @P108@
+1 CHIL @P113@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P115@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P116@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM 
+1 HUSB @P117@
+1 WIFE @P111@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+0 @F37@ FAM 
+1 HUSB @P123@
+1 WIFE @P122@
+1 CHIL @P124@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P130@
+2 _FREL Natural
+2 _MREL Natural
+0 @F38@ FAM 
+1 HUSB @P131@
+1 WIFE @P133@
+0 @F39@ FAM 
+1 HUSB @P132@
+1 WIFE @P140@
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P137@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P138@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P139@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM 
+1 HUSB @P134@
+1 WIFE @P135@
+1 CHIL @P133@
+2 _FREL Natural
+2 _MREL Natural
+0 @F41@ FAM 
+1 HUSB @P141@
+1 WIFE @P142@
+1 CHIL @P134@
+2 _FREL Natural
+2 _MREL Natural
+0 @F42@ FAM 
+1 HUSB @P144@
+1 WIFE @P143@
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+0 @F43@ FAM 
+1 HUSB @P146@
+1 WIFE @P145@
+1 CHIL @P144@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM 
+1 HUSB @P147@
+1 WIFE @P148@
+1 CHIL @P149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P150@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P153@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P155@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P143@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P156@
+2 _FREL Natural
+2 _MREL Natural
+0 @F45@ FAM 
+1 HUSB @P114@
+1 WIFE @P170@
+1 CHIL @P164@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P165@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P163@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P161@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P160@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P166@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P168@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P169@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM 
+1 HUSB @P116@
+1 WIFE @P183@
+1 CHIL @P177@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P178@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P179@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P180@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P181@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P182@
+2 _FREL Natural
+2 _MREL Natural
+0 @F47@ FAM 
+1 HUSB @P176@
+1 WIFE @P115@
+1 CHIL @P171@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P172@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P173@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P174@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P175@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM 
+1 HUSB @P179@
+1 WIFE @P184@
+0 @F49@ FAM 
+1 HUSB @P182@
+1 WIFE @P185@
+0 @F50@ FAM 
+1 HUSB @P107@
+1 WIFE @P106@
+1 CHIL @P194@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P193@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P192@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM 
+1 HUSB @P197@
+1 WIFE @P196@
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+0 @F52@ FAM 
+1 HUSB @P191@
+1 WIFE @P24@
+1 CHIL @P189@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P188@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+0 @F53@ FAM 
+1 HUSB @P186@
+1 WIFE @P187@
+1 CHIL @P209@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM 
+1 HUSB @P211@
+1 WIFE @P210@
+1 CHIL @P214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P217@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P186@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P218@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P219@
+2 _FREL Natural
+2 _MREL Natural
+0 @F55@ FAM 
+1 HUSB @P216@
+1 WIFE @P225@
+1 CHIL @P224@
+2 _FREL Natural
+2 _MREL Natural
+0 @F56@ FAM 
+1 HUSB @P222@
+1 WIFE @P221@
+1 CHIL @P226@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P210@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM 
+1 HUSB @P228@
+1 WIFE @P227@
+1 CHIL @P233@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P232@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P231@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P230@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P221@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P229@
+2 _FREL Natural
+2 _MREL Natural
+0 @F58@ FAM 
+1 HUSB @P100@
+1 WIFE @P236@
+1 CHIL @P235@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P234@
+2 _FREL Natural
+2 _MREL Natural
+0 @F59@ FAM 
+1 HUSB @P235@
+1 WIFE @P240@
+0 @F60@ FAM 
+1 HUSB @P213@
+1 WIFE @P212@
+1 CHIL @P187@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P243@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P244@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P245@
+2 _FREL Natural
+2 _MREL Natural
+0 @F61@ FAM 
+1 HUSB @P237@
+1 WIFE @P102@
+1 MARR 
+2 DATE 1927
+2 PLAC Mildura
+0 @F62@ FAM 
+1 HUSB @P247@
+1 WIFE @P246@
+1 CHIL @P254@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P253@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P252@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P237@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P255@
+2 _FREL Natural
+2 _MREL Natural
+0 @F63@ FAM 
+1 HUSB @P258@
+1 WIFE @P259@
+1 CHIL @P239@
+2 _FREL Natural
+2 _MREL Natural
+0 @F64@ FAM 
+1 HUSB @P242@
+1 WIFE @P241@
+1 CHIL @P260@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P240@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P261@
+2 _FREL Natural
+2 _MREL Natural
+0 @F65@ FAM 
+1 HUSB @P209@
+1 WIFE @P269@
+1 CHIL @P265@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P264@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P263@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P262@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P266@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P267@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P268@
+2 _FREL Natural
+2 _MREL Natural
+0 @F66@ FAM 
+1 HUSB @P223@
+1 WIFE @P214@
+0 @F67@ FAM 
+1 HUSB @P208@
+1 WIFE @P192@
+1 CHIL @P204@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P202@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P203@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P201@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P199@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P200@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P205@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P207@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P206@
+2 _FREL Natural
+2 _MREL Natural
+0 @F68@ FAM 
+1 HUSB @P272@
+1 WIFE @P274@
+0 @F69@ FAM 
+1 HUSB @P198@
+1 WIFE @P192@
+0 @F70@ FAM 
+1 HUSB @P96@
+1 WIFE @P78@
+1 CHIL @P95@
+2 _FREL Natural
+2 _MREL Natural
+0 @F71@ FAM 
+1 HUSB @P97@
+1 WIFE @P79@
+0 @F72@ FAM 
+1 HUSB @P271@
+1 WIFE @P226@
+1 CHIL @P270@
+2 _FREL Natural
+2 _MREL Natural
+0 @F73@ FAM 
+1 HUSB @P270@
+1 WIFE @P276@
+0 @F74@ FAM 
+1 HUSB @P63@
+1 WIFE @P42@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+0 @F75@ FAM 
+1 HUSB @P62@
+1 WIFE @P281@
+0 @F76@ FAM 
+1 HUSB @P277@
+1 WIFE @P283@
+0 @F77@ FAM 
+1 HUSB @P284@
+1 WIFE @P282@
+0 @F78@ FAM 
+1 HUSB @P286@
+1 WIFE @P285@
+0 @F79@ FAM 
+1 HUSB @P290@
+1 WIFE @P289@
+0 @F80@ FAM 
+1 HUSB @P292@
+1 WIFE @P291@
+0 @F81@ FAM 
+1 HUSB @P288@
+1 WIFE @P287@
+1 CHIL @P286@
+2 _FREL Natural
+2 _MREL Natural
+0 @F82@ FAM 
+1 HUSB @P294@
+1 WIFE @P293@
+1 CHIL @P295@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P292@
+2 _FREL Natural
+2 _MREL Natural
+0 @F83@ FAM 
+1 HUSB @P158@
+1 WIFE @P109@
+0 @F84@ FAM 
+1 HUSB @P159@
+1 WIFE @P157@
+1 CHIL @P301@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P296@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P297@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P298@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P302@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P299@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P300@
+2 _FREL Natural
+2 _MREL Natural
+0 @F85@ FAM 
+1 HUSB @P304@
+1 WIFE @P303@
+1 CHIL @P310@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P309@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P308@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P306@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P307@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P159@
+2 _FREL Natural
+2 _MREL Natural
+0 @F86@ FAM 
+1 HUSB @P238@
+1 WIFE @P239@
+1 CHIL @P256@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P236@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P257@
+2 _FREL Natural
+2 _MREL Natural
+0 @F87@ FAM 
+1 HUSB @P89@
+1 WIFE @P90@
+1 CHIL @P65@
+2 _FREL Natural
+2 _MREL Natural
+0 @F88@ FAM 
+1 HUSB @P64@
+1 WIFE @P313@
+0 @F89@ FAM 
+1 HUSB @P251@
+1 WIFE @P75@
+1 CHIL @P249@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P248@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P250@
+2 _FREL Natural
+2 _MREL Natural
+0 @F90@ FAM 
+1 HUSB @P317@
+1 WIFE @P250@
+1 CHIL @P318@
+2 _FREL Natural
+2 _MREL Natural
+0 @F91@ FAM 
+1 HUSB @P248@
+1 WIFE @P319@
+0 @F92@ FAM 
+1 HUSB @P249@
+1 WIFE @P320@
+0 @F93@ FAM 
+1 HUSB @P224@
+1 WIFE @P323@
+1 CHIL @P322@
+2 _FREL Natural
+2 _MREL Natural
+0 @F94@ FAM 
+1 HUSB @P326@
+1 WIFE @P322@
+1 CHIL @P325@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P324@
+2 _FREL Natural
+2 _MREL Natural
+0 @F95@ FAM 
+1 HUSB @P307@
+1 WIFE @P327@
+0 @F96@ FAM 
+1 HUSB @P300@
+1 WIFE @P331@
+0 @F97@ FAM 
+1 HUSB @P312@
+1 WIFE @P311@
+1 CHIL @P303@
+2 _FREL Natural
+2 _MREL Natural
+0 @F98@ FAM 
+1 HUSB @P330@
+1 WIFE @P297@
+0 @F99@ FAM 
+1 HUSB @P332@
+1 WIFE @P301@
+0 @F100@ FAM 
+1 HUSB @P328@
+1 WIFE @P329@
+1 CHIL @P327@
+2 _FREL Natural
+2 _MREL Natural
+0 @F101@ FAM 
+1 HUSB @P333@
+1 WIFE @P334@
+0 @F102@ FAM 
+1 HUSB @P333@
+1 WIFE @P329@
+0 @F103@ FAM 
+1 HUSB @P315@
+1 WIFE @P314@
+0 @F104@ FAM 
+1 WIFE @P280@
+1 CHIL @P63@
+2 _MREL Natural
+0 @F105@ FAM 
+1 HUSB @P195@
+1 CHIL @P107@
+2 _FREL Natural
+0 @F106@ FAM 
+1 HUSB @P117@
+1 CHIL @P118@
+2 _FREL Natural
+1 CHIL @P119@
+2 _FREL Natural
+1 CHIL @P120@
+2 _FREL Natural
+1 CHIL @P121@
+2 _FREL Natural
+0 @F107@ FAM 
+1 HUSB @P131@
+1 CHIL @P122@
+2 _FREL Natural
+0 @F108@ FAM 
+1 HUSB @P132@
+1 CHIL @P131@
+2 _FREL Natural
+0 @F109@ FAM 
+1 HUSB @P305@
+1 CHIL @P157@
+2 _FREL Natural
+0 @F110@ FAM 
+1 HUSB @P220@
+1 CHIL @P211@
+2 _FREL Natural
+0 @F111@ FAM 
+1 HUSB @P321@
+1 CHIL @P225@
+2 _FREL Natural
+0 @F112@ FAM 
+1 WIFE @P207@
+1 CHIL @P272@
+2 _MREL Natural
+1 CHIL @P273@
+2 _MREL Natural
+0 @F113@ FAM 
+1 WIFE @P275@
+1 CHIL @P274@
+2 _MREL Natural
+0 @F114@ FAM 
+1 HUSB @P277@
+1 CHIL @P276@
+2 _FREL Natural
+0 @F115@ FAM 
+1 WIFE @P282@
+1 CHIL @P277@
+2 _MREL Natural
+0 @F116@ FAM 
+1 HUSB @P92@
+1 CHIL @P278@
+2 _FREL Natural
+1 CHIL @P279@
+2 _FREL Natural
+0 @F117@ FAM 
+1 WIFE @P314@
+1 CHIL @P280@
+2 _MREL Natural
+0 @F118@ FAM 
+1 WIFE @P285@
+1 CHIL @P284@
+2 _MREL Natural
+0 @F119@ FAM 
+1 WIFE @P289@
+1 CHIL @P287@
+2 _MREL Natural
+0 @F120@ FAM 
+1 HUSB @P292@
+1 CHIL @P288@
+2 _FREL Natural
+0 @F121@ FAM 
+1 WIFE @P316@
+1 CHIL @P314@
+2 _MREL Natural
 0 TRLR
